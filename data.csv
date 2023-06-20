@@ -1,0 +1,1335 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Karnataka,KOLAR,1998,Kharif     ,Onion,3090,14100
+Karnataka,KOLAR,1998,Rabi       ,Onion,1226,16070
+Karnataka,KOLAR,1998,Summer     ,Onion,1032,15017
+Karnataka,KOLAR,1999,Whole Year ,Onion,3614,52778
+Karnataka,KOLAR,2000,Whole Year ,Onion,3819,33520
+Karnataka,KOLAR,2001,Whole Year ,Onion,6247,64311
+Karnataka,KOLAR,2002,Whole Year ,Onion,3329,30605
+Karnataka,KOLAR,2002,Whole Year ,Tomato,114,639
+Karnataka,KOLAR,2003,Whole Year ,Onion,4269,27894
+Karnataka,KOLAR,2003,Whole Year ,Tomato,321,853
+Karnataka,KOLAR,2004,Whole Year ,Onion,6986,65436
+Karnataka,KOLAR,2005,Kharif     ,Onion,6732,39517
+Karnataka,KOLAR,2005,Rabi       ,Onion,1478,15322
+Karnataka,KOLAR,2005,Summer     ,Onion,675,9735
+Karnataka,KOLAR,2006,Whole Year ,Onion,8284,59102
+Karnataka,KOLAR,2007,Kharif     ,Onion,12075,81411
+Karnataka,KOLAR,2007,Rabi       ,Onion,971,10215
+Karnataka,KOLAR,2007,Summer     ,Onion,605,6030
+Karnataka,KOLAR,2008,Kharif     ,Onion,6945,54530
+Karnataka,KOLAR,2008,Rabi       ,Onion,2526,22773
+Karnataka,KOLAR,2008,Summer     ,Onion,651,4053
+Karnataka,KOLAR,2009,Kharif     ,Onion,17697,49445
+Karnataka,KOLAR,2009,Rabi       ,Onion,2083,14319
+Karnataka,KOLAR,2009,Summer     ,Onion,540,4485
+Karnataka,KOLAR,2010,Kharif     ,Onion,17139,141312
+Karnataka,KOLAR,2010,Rabi       ,Onion,2244,14257
+Karnataka,KOLAR,2010,Summer     ,Onion,709,10377
+Karnataka,KOLAR,2011,Kharif     ,Onion,18304,141893
+Karnataka,KOLAR,2011,Rabi       ,Onion,1561,17276
+Karnataka,KOLAR,2011,Summer     ,Onion,362,4721
+Karnataka,KOLAR,2012,Kharif     ,Onion,7720,69292
+Karnataka,KOLAR,2012,Rabi       ,Onion,1094,8916
+Karnataka,KOLAR,2012,Summer     ,Onion,365,2841
+Karnataka,KOLAR,2013,Kharif     ,Onion,10683,96861
+Karnataka,KOLAR,2013,Rabi       ,Onion,972,9730
+Karnataka,KOLAR,2013,Summer     ,Onion,328,3276
+Karnataka,KOLAR,2014,Kharif     ,Onion,10969,82750
+Karnataka,KOLAR,2014,Rabi       ,Onion,1237,10051
+Karnataka,KOLAR,2014,Summer     ,Onion,313,2880
+Karnataka,KOLAR,1998,Kharif     ,Onion,71,322
+Karnataka,KOLAR,1998,Kharif     ,Potato,835,9203
+Karnataka,KOLAR,1998,Rabi       ,Potato,212,4672
+Karnataka,KOLAR,1998,Summer     ,Onion,150,1861
+Karnataka,KOLAR,1998,Summer     ,Potato,629,10664
+Karnataka,KOLAR,1999,Whole Year ,Onion,51,399
+Karnataka,KOLAR,1999,Whole Year ,Potato,691,14644
+Karnataka,KOLAR,2000,Whole Year ,Onion,50,288
+Karnataka,KOLAR,2000,Whole Year ,Potato,1870,29280
+Karnataka,KOLAR,2001,Whole Year ,Onion,50,463
+Karnataka,KOLAR,2001,Whole Year ,Potato,1636,27066
+Karnataka,KOLAR,2002,Whole Year ,Onion,15,60
+Karnataka,KOLAR,2002,Whole Year ,Potato,923,5258
+Karnataka,KOLAR,2002,Whole Year ,Tomato,1528,26197
+Karnataka,KOLAR,2003,Whole Year ,Onion,19,49
+Karnataka,KOLAR,2003,Whole Year ,Potato,1467,20886
+Karnataka,KOLAR,2003,Whole Year ,Tomato,1463,16441
+Karnataka,KOLAR,2004,Whole Year ,Onion,48,319
+Karnataka,KOLAR,2004,Whole Year ,Potato,1660,22458
+Karnataka,KOLAR,2005,Kharif     ,Onion,75,418
+Karnataka,KOLAR,2005,Kharif     ,Potato,392,1312
+Karnataka,KOLAR,2005,Rabi       ,Onion,16,166
+Karnataka,KOLAR,2005,Rabi       ,Potato,1194,17452
+Karnataka,KOLAR,2005,Summer     ,Onion,5,83
+Karnataka,KOLAR,2005,Summer     ,Potato,83,1389
+Karnataka,KOLAR,2006,Whole Year ,Onion,59,346
+Karnataka,KOLAR,2006,Whole Year ,Potato,1802,41882
+Karnataka,KOLAR,2007,Kharif     ,Onion,50,298
+Karnataka,KOLAR,2007,Kharif     ,Potato,230,758
+Karnataka,KOLAR,2007,Rabi       ,Onion,8,67
+Karnataka,KOLAR,2007,Rabi       ,Potato,1050,12920
+Karnataka,KOLAR,2007,Summer     ,Onion,3,25
+Karnataka,KOLAR,2007,Summer     ,Potato,157,2668
+Karnataka,KOLAR,2008,Kharif     ,Onion,66,342
+Karnataka,KOLAR,2008,Kharif     ,Potato,191,362
+Karnataka,KOLAR,2008,Rabi       ,Onion,19,127
+Karnataka,KOLAR,2008,Rabi       ,Potato,902,16522
+Karnataka,KOLAR,2008,Summer     ,Onion,17,93
+Karnataka,KOLAR,2008,Summer     ,Potato,160,2708
+Karnataka,KOLAR,2009,Kharif     ,Onion,77,272
+Karnataka,KOLAR,2009,Kharif     ,Potato,105,649
+Karnataka,KOLAR,2009,Rabi       ,Onion,22,130
+Karnataka,KOLAR,2009,Rabi       ,Potato,889,13373
+Karnataka,KOLAR,2009,Summer     ,Onion,9,69
+Karnataka,KOLAR,2009,Summer     ,Potato,160,2718
+Karnataka,KOLAR,2010,Kharif     ,Onion,74,462
+Karnataka,KOLAR,2010,Kharif     ,Potato,114,866
+Karnataka,KOLAR,2010,Rabi       ,Onion,44,301
+Karnataka,KOLAR,2010,Rabi       ,Potato,927,27142
+Karnataka,KOLAR,2010,Summer     ,Onion,4,43
+Karnataka,KOLAR,2010,Summer     ,Potato,135,2076
+Karnataka,KOLAR,2011,Kharif     ,Onion,54,267
+Karnataka,KOLAR,2011,Kharif     ,Potato,181,1496
+Karnataka,KOLAR,2011,Rabi       ,Onion,42,334
+Karnataka,KOLAR,2011,Rabi       ,Potato,912,18141
+Karnataka,KOLAR,2011,Summer     ,Onion,4,25
+Karnataka,KOLAR,2011,Summer     ,Potato,150,2164
+Karnataka,KOLAR,2012,Kharif     ,Onion,42,223
+Karnataka,KOLAR,2012,Kharif     ,Potato,207,1322
+Karnataka,KOLAR,2012,Rabi       ,Onion,7,46
+Karnataka,KOLAR,2012,Rabi       ,Potato,497,7366
+Karnataka,KOLAR,2012,Summer     ,Onion,10,57
+Karnataka,KOLAR,2012,Summer     ,Potato,156,3401
+Karnataka,KOLAR,2013,Kharif     ,Onion,30,198
+Karnataka,KOLAR,2013,Kharif     ,Potato,959,6309
+Karnataka,KOLAR,2013,Rabi       ,Onion,15,105
+Karnataka,KOLAR,2013,Rabi       ,Potato,362,5810
+Karnataka,KOLAR,2013,Summer     ,Onion,182,1429
+Karnataka,KOLAR,2013,Summer     ,Potato,23,323
+Karnataka,KOLAR,2014,Kharif     ,Onion,69,354
+Karnataka,KOLAR,2014,Kharif     ,Potato,439,2702
+Karnataka,KOLAR,2014,Rabi       ,Onion,11,73
+Karnataka,KOLAR,2014,Rabi       ,Potato,356,6630
+Karnataka,KOLAR,2014,Summer     ,Onion,6,29
+Karnataka,KOLAR,2014,Summer     ,Potato,65,891
+Karnataka,KOLAR,1998,Kharif     ,Onion,1766,4339
+Karnataka,KOLAR,1998,Kharif     ,Potato,5205,62689
+Karnataka,KOLAR,1998,Rabi       ,Onion,872,7279
+Karnataka,KOLAR,1998,Rabi       ,Potato,58,1112
+Karnataka,KOLAR,1998,Summer     ,Onion,646,5240
+Karnataka,KOLAR,1998,Summer     ,Potato,56,622
+Karnataka,KOLAR,1999,Whole Year ,Onion,3905,27015
+Karnataka,KOLAR,1999,Whole Year ,Potato,6100,71181
+Karnataka,KOLAR,2000,Whole Year ,Onion,2452,7783
+Karnataka,KOLAR,2000,Whole Year ,Potato,5958,59905
+Karnataka,KOLAR,2001,Whole Year ,Onion,1656,11635
+Karnataka,KOLAR,2001,Whole Year ,Potato,5228,63008
+Karnataka,KOLAR,2002,Whole Year ,Onion,5551,13647
+Karnataka,KOLAR,2002,Whole Year ,Potato,4513,36267
+Karnataka,KOLAR,2002,Whole Year ,Tomato,1301,8967
+Karnataka,KOLAR,2003,Whole Year ,Onion,3778,8693
+Karnataka,KOLAR,2003,Whole Year ,Potato,5152,49716
+Karnataka,KOLAR,2003,Whole Year ,Tomato,1503,7058
+Karnataka,KOLAR,2004,Whole Year ,Onion,6967,30687
+Karnataka,KOLAR,2004,Whole Year ,Potato,5336,44325
+Karnataka,KOLAR,2005,Kharif     ,Onion,7087,30512
+Karnataka,KOLAR,2005,Kharif     ,Potato,4885,10326
+Karnataka,KOLAR,2005,Rabi       ,Onion,355,3680
+Karnataka,KOLAR,2005,Rabi       ,Potato,160,2893
+Karnataka,KOLAR,2005,Summer     ,Onion,22,366
+Karnataka,KOLAR,2005,Summer     ,Potato,10,148
+Karnataka,KOLAR,2006,Whole Year ,Onion,7848,61455
+Karnataka,KOLAR,2006,Whole Year ,Potato,4951,26129
+Karnataka,KOLAR,2007,Kharif     ,Onion,12029,69205
+Karnataka,KOLAR,2007,Kharif     ,Potato,3773,16660
+Karnataka,KOLAR,2007,Rabi       ,Onion,644,3388
+Karnataka,KOLAR,2007,Rabi       ,Potato,130,1600
+Karnataka,KOLAR,2007,Summer     ,Onion,20,169
+Karnataka,KOLAR,2008,Kharif     ,Onion,6139,25941
+Karnataka,KOLAR,2008,Kharif     ,Potato,3520,29651
+Karnataka,KOLAR,2008,Rabi       ,Onion,661,1895
+Karnataka,KOLAR,2008,Rabi       ,Potato,143,2055
+Karnataka,KOLAR,2008,Summer     ,Onion,30,164
+Karnataka,KOLAR,2009,Kharif     ,Onion,11253,35930
+Karnataka,KOLAR,2009,Kharif     ,Potato,3583,52784
+Karnataka,KOLAR,2009,Rabi       ,Onion,1197,2519
+Karnataka,KOLAR,2009,Rabi       ,Potato,179,2643
+Karnataka,KOLAR,2009,Summer     ,Onion,23,176
+Karnataka,KOLAR,2010,Kharif     ,Onion,8385,52454
+Karnataka,KOLAR,2010,Kharif     ,Potato,3591,48671
+Karnataka,KOLAR,2010,Rabi       ,Onion,726,7333
+Karnataka,KOLAR,2010,Rabi       ,Potato,166,1932
+Karnataka,KOLAR,2010,Summer     ,Onion,40,426
+Karnataka,KOLAR,2010,Summer     ,Potato,3,46
+Karnataka,KOLAR,2011,Kharif     ,Onion,8044,48036
+Karnataka,KOLAR,2011,Kharif     ,Potato,3103,41907
+Karnataka,KOLAR,2011,Rabi       ,Onion,1107,2431
+Karnataka,KOLAR,2011,Rabi       ,Potato,179,2174
+Karnataka,KOLAR,2011,Summer     ,Onion,32,197
+Karnataka,KOLAR,2012,Kharif     ,Onion,2854,9755
+Karnataka,KOLAR,2012,Kharif     ,Potato,4591,57767
+Karnataka,KOLAR,2012,Rabi       ,Onion,1872,5309
+Karnataka,KOLAR,2012,Rabi       ,Potato,548,9307
+Karnataka,KOLAR,2012,Summer     ,Onion,59,335
+Karnataka,KOLAR,2012,Summer     ,Potato,59,1286
+Karnataka,KOLAR,2013,Kharif     ,Onion,6722,39267
+Karnataka,KOLAR,2013,Kharif     ,Potato,3888,58396
+Karnataka,KOLAR,2013,Rabi       ,Onion,1105,2978
+Karnataka,KOLAR,2013,Rabi       ,Potato,1040,14366
+Karnataka,KOLAR,2013,Summer     ,Onion,2,16
+Karnataka,KOLAR,2013,Summer     ,Potato,108,1517
+Karnataka,KOLAR,2014,Kharif     ,Onion,10001,48132
+Karnataka,KOLAR,2014,Kharif     ,Potato,3616,34345
+Karnataka,KOLAR,2014,Rabi       ,Onion,930,3873
+Karnataka,KOLAR,2014,Rabi       ,Potato,854,9435
+Karnataka,KOLAR,2014,Summer     ,Onion,157,770
+Karnataka,KOLAR,2014,Summer     ,Potato,106,1453
+Karnataka,KOLAR,1998,Kharif     ,Onion,7638,53886
+Karnataka,KOLAR,1998,Rabi       ,Onion,150,917
+Karnataka,KOLAR,1998,Summer     ,Onion,1108,12024
+Karnataka,KOLAR,1999,Whole Year ,Onion,5448,39556
+Karnataka,KOLAR,2000,Whole Year ,Onion,4118,29659
+Karnataka,KOLAR,2001,Whole Year ,Onion,3980,47730
+Karnataka,KOLAR,2002,Whole Year ,Onion,3574,57874
+Karnataka,KOLAR,2002,Whole Year ,Tomato,763,13310
+Karnataka,KOLAR,2003,Whole Year ,Onion,3745,42375
+Karnataka,KOLAR,2003,Whole Year ,Tomato,383,4963
+Karnataka,KOLAR,2004,Whole Year ,Onion,3761,38433
+Karnataka,KOLAR,2005,Kharif     ,Onion,2999,25442
+Karnataka,KOLAR,2005,Rabi       ,Onion,277,2871
+Karnataka,KOLAR,2005,Summer     ,Onion,741,13535
+Karnataka,KOLAR,2006,Whole Year ,Onion,3577,23238
+Karnataka,KOLAR,2007,Kharif     ,Onion,3213,20332
+Karnataka,KOLAR,2007,Rabi       ,Onion,156,1313
+Karnataka,KOLAR,2007,Summer     ,Onion,476,2170
+Karnataka,KOLAR,2008,Kharif     ,Onion,3148,16481
+Karnataka,KOLAR,2008,Rabi       ,Onion,122,815
+Karnataka,KOLAR,2008,Summer     ,Onion,605,3151
+Karnataka,KOLAR,2009,Kharif     ,Onion,2732,12217
+Karnataka,KOLAR,2009,Rabi       ,Onion,458,2713
+Karnataka,KOLAR,2009,Summer     ,Onion,675,3705
+Karnataka,KOLAR,2010,Kharif     ,Onion,2798,17961
+Karnataka,KOLAR,2010,Rabi       ,Onion,84,575
+Karnataka,KOLAR,2010,Summer     ,Onion,488,3044
+Karnataka,KOLAR,2011,Kharif     ,Onion,3822,23822
+Karnataka,KOLAR,2011,Rabi       ,Onion,268,2133
+Karnataka,KOLAR,2011,Summer     ,Onion,430,1836
+Karnataka,KOLAR,2012,Kharif     ,Onion,2594,14135
+Karnataka,KOLAR,2012,Rabi       ,Onion,352,2304
+Karnataka,KOLAR,2012,Summer     ,Onion,216,1378
+Karnataka,KOLAR,2013,Kharif     ,Onion,2716,23743
+Karnataka,KOLAR,2013,Rabi       ,Onion,352,2473
+Karnataka,KOLAR,2013,Summer     ,Onion,1111,12048
+Karnataka,KOLAR,2013,Summer     ,Potato,26,365
+Karnataka,KOLAR,2014,Kharif     ,Onion,5726,44431
+Karnataka,KOLAR,2014,Kharif     ,Potato,10,62
+Karnataka,KOLAR,2014,Rabi       ,Onion,567,3758
+Karnataka,KOLAR,2014,Rabi       ,Potato,23,354
+Karnataka,KOLAR,2014,Summer     ,Onion,876,5157
+Karnataka,KOLAR,1998,Kharif     ,Onion,74,335
+Karnataka,KOLAR,1998,Kharif     ,Potato,104,2219
+Karnataka,KOLAR,1998,Summer     ,Potato,16,407
+Karnataka,KOLAR,1998,Whole Year ,Potato,268,3910
+Karnataka,KOLAR,1999,Whole Year ,Onion,137,996
+Karnataka,KOLAR,1999,Whole Year ,Potato,1069,17390
+Karnataka,KOLAR,2000,Whole Year ,Onion,120,706
+Karnataka,KOLAR,2000,Whole Year ,Potato,192,2963
+Karnataka,KOLAR,2001,Whole Year ,Onion,157,1143
+Karnataka,KOLAR,2001,Whole Year ,Potato,83,1149
+Karnataka,KOLAR,2002,Whole Year ,Onion,84,625
+Karnataka,KOLAR,2002,Whole Year ,Potato,225,1973
+Karnataka,KOLAR,2002,Whole Year ,Tomato,767,6914
+Karnataka,KOLAR,2003,Whole Year ,Onion,76,419
+Karnataka,KOLAR,2003,Whole Year ,Potato,245,2418
+Karnataka,KOLAR,2003,Whole Year ,Tomato,641,9083
+Karnataka,KOLAR,2004,Whole Year ,Onion,90,744
+Karnataka,KOLAR,2004,Whole Year ,Potato,204,1978
+Karnataka,KOLAR,2005,Kharif     ,Onion,77,429
+Karnataka,KOLAR,2005,Kharif     ,Potato,127,425
+Karnataka,KOLAR,2005,Rabi       ,Potato,67,1211
+Karnataka,KOLAR,2006,Whole Year ,Onion,32,178
+Karnataka,KOLAR,2006,Whole Year ,Potato,299,6184
+Karnataka,KOLAR,2007,Kharif     ,Onion,32,191
+Karnataka,KOLAR,2007,Kharif     ,Potato,66,218
+Karnataka,KOLAR,2007,Rabi       ,Potato,170,2092
+Karnataka,KOLAR,2008,Kharif     ,Onion,44,228
+Karnataka,KOLAR,2008,Kharif     ,Potato,94,178
+Karnataka,KOLAR,2008,Rabi       ,Potato,121,1739
+Karnataka,KOLAR,2009,Kharif     ,Onion,45,159
+Karnataka,KOLAR,2009,Kharif     ,Potato,66,408
+Karnataka,KOLAR,2009,Rabi       ,Potato,116,1713
+Karnataka,KOLAR,2010,Kharif     ,Onion,42,262
+Karnataka,KOLAR,2010,Kharif     ,Potato,59,448
+Karnataka,KOLAR,2010,Rabi       ,Potato,113,1315
+Karnataka,KOLAR,2011,Kharif     ,Onion,44,217
+Karnataka,KOLAR,2011,Kharif     ,Potato,61,504
+Karnataka,KOLAR,2011,Rabi       ,Potato,103,1251
+Karnataka,KOLAR,2011,Summer     ,Potato,10,144
+Karnataka,KOLAR,2012,Kharif     ,Onion,26,138
+Karnataka,KOLAR,2012,Kharif     ,Potato,206,1315
+Karnataka,KOLAR,2012,Rabi       ,Onion,1,7
+Karnataka,KOLAR,2012,Rabi       ,Potato,7,119
+Karnataka,KOLAR,2012,Summer     ,Onion,14,79
+Karnataka,KOLAR,2012,Summer     ,Potato,17,371
+Karnataka,KOLAR,2013,Kharif     ,Onion,31,205
+Karnataka,KOLAR,2013,Kharif     ,Potato,79,520
+Karnataka,KOLAR,2013,Rabi       ,Onion,8,56
+Karnataka,KOLAR,2013,Rabi       ,Potato,33,502
+Karnataka,KOLAR,2013,Summer     ,Potato,4,56
+Karnataka,KOLAR,2014,Kharif     ,Onion,8,41
+Karnataka,KOLAR,2014,Kharif     ,Potato,64,394
+Karnataka,KOLAR,2014,Rabi       ,Potato,14,216
+Karnataka,KOLAR,2014,Summer     ,Potato,9,123
+Karnataka,KOLAR,1998,Kharif     ,Onion,28,127
+Karnataka,KOLAR,1998,Kharif     ,Potato,9,99
+Karnataka,KOLAR,1998,Rabi       ,Onion,303,2303
+Karnataka,KOLAR,1998,Rabi       ,Potato,10,197
+Karnataka,KOLAR,1999,Whole Year ,Onion,317,6198
+Karnataka,KOLAR,1999,Whole Year ,Potato,27,520
+Karnataka,KOLAR,2000,Whole Year ,Onion,420,2438
+Karnataka,KOLAR,2000,Whole Year ,Potato,24,321
+Karnataka,KOLAR,2001,Whole Year ,Onion,568,6961
+Karnataka,KOLAR,2001,Whole Year ,Potato,58,1122
+Karnataka,KOLAR,2002,Whole Year ,Onion,545,6454
+Karnataka,KOLAR,2002,Whole Year ,Potato,67,707
+Karnataka,KOLAR,2002,Whole Year ,Tomato,450,519
+Karnataka,KOLAR,2003,Whole Year ,Onion,464,4272
+Karnataka,KOLAR,2003,Whole Year ,Potato,50,550
+Karnataka,KOLAR,2003,Whole Year ,Tomato,2307,13245
+Karnataka,KOLAR,2004,Whole Year ,Onion,441,3836
+Karnataka,KOLAR,2004,Whole Year ,Potato,47,727
+Karnataka,KOLAR,2005,Kharif     ,Onion,91,507
+Karnataka,KOLAR,2005,Kharif     ,Potato,4,13
+Karnataka,KOLAR,2005,Rabi       ,Onion,415,4302
+Karnataka,KOLAR,2005,Rabi       ,Potato,39,705
+Karnataka,KOLAR,2005,Summer     ,Onion,22,360
+Karnataka,KOLAR,2006,Whole Year ,Onion,474,2923
+Karnataka,KOLAR,2006,Whole Year ,Potato,73,1726
+Karnataka,KOLAR,2007,Kharif     ,Onion,91,542
+Karnataka,KOLAR,2007,Kharif     ,Potato,36,119
+Karnataka,KOLAR,2007,Rabi       ,Onion,394,5448
+Karnataka,KOLAR,2007,Rabi       ,Potato,41,504
+Karnataka,KOLAR,2007,Summer     ,Onion,31,262
+Karnataka,KOLAR,2008,Kharif     ,Onion,114,591
+Karnataka,KOLAR,2008,Kharif     ,Potato,36,68
+Karnataka,KOLAR,2008,Rabi       ,Onion,341,1311
+Karnataka,KOLAR,2008,Rabi       ,Potato,64,920
+Karnataka,KOLAR,2008,Summer     ,Onion,28,153
+Karnataka,KOLAR,2009,Kharif     ,Onion,93,328
+Karnataka,KOLAR,2009,Kharif     ,Potato,31,192
+Karnataka,KOLAR,2009,Rabi       ,Onion,438,7057
+Karnataka,KOLAR,2009,Rabi       ,Potato,85,1255
+Karnataka,KOLAR,2009,Summer     ,Onion,39,298
+Karnataka,KOLAR,2010,Kharif     ,Onion,88,549
+Karnataka,KOLAR,2010,Kharif     ,Potato,26,198
+Karnataka,KOLAR,2010,Rabi       ,Onion,585,4006
+Karnataka,KOLAR,2010,Rabi       ,Potato,61,710
+Karnataka,KOLAR,2010,Summer     ,Onion,24,255
+Karnataka,KOLAR,2010,Summer     ,Potato,1,15
+Karnataka,KOLAR,2011,Kharif     ,Onion,350,1728
+Karnataka,KOLAR,2011,Kharif     ,Potato,60,496
+Karnataka,KOLAR,2011,Rabi       ,Onion,691,12143
+Karnataka,KOLAR,2011,Rabi       ,Potato,116,1409
+Karnataka,KOLAR,2011,Summer     ,Onion,28,172
+Karnataka,KOLAR,2011,Summer     ,Potato,4,58
+Karnataka,KOLAR,2012,Kharif     ,Onion,289,1534
+Karnataka,KOLAR,2012,Kharif     ,Potato,66,421
+Karnataka,KOLAR,2012,Rabi       ,Onion,570,4148
+Karnataka,KOLAR,2012,Rabi       ,Potato,92,1562
+Karnataka,KOLAR,2012,Summer     ,Onion,20,113
+Karnataka,KOLAR,2012,Summer     ,Potato,4,87
+Karnataka,KOLAR,2013,Kharif     ,Onion,343,2269
+Karnataka,KOLAR,2013,Kharif     ,Potato,49,322
+Karnataka,KOLAR,2013,Rabi       ,Onion,455,5443
+Karnataka,KOLAR,2013,Rabi       ,Potato,130,1978
+Karnataka,KOLAR,2013,Summer     ,Onion,123,966
+Karnataka,KOLAR,2013,Summer     ,Potato,26,365
+Karnataka,KOLAR,2014,Kharif     ,Onion,170,873
+Karnataka,KOLAR,2014,Kharif     ,Potato,66,406
+Karnataka,KOLAR,2014,Rabi       ,Onion,389,4510
+Karnataka,KOLAR,2014,Rabi       ,Potato,53,816
+Karnataka,KOLAR,2014,Summer     ,Onion,43,211
+Karnataka,KOLAR,2014,Summer     ,Potato,2,27
+Karnataka,KOLAR,1998,Kharif     ,Onion,4970,13886
+Karnataka,KOLAR,1998,Rabi       ,Onion,1859,19819
+Karnataka,KOLAR,1998,Summer     ,Onion,281,1918
+Karnataka,KOLAR,1999,Whole Year ,Onion,7341,78353
+Karnataka,KOLAR,2000,Whole Year ,Onion,6059,34109
+Karnataka,KOLAR,2001,Whole Year ,Onion,10862,133258
+Karnataka,KOLAR,2002,Whole Year ,Onion,8982,100995
+Karnataka,KOLAR,2002,Whole Year ,Tomato,594,3160
+Karnataka,KOLAR,2003,Whole Year ,Onion,3923,23241
+Karnataka,KOLAR,2003,Whole Year ,Tomato,9673,38364
+Karnataka,KOLAR,2004,Whole Year ,Onion,5436,52131
+Karnataka,KOLAR,2005,Kharif     ,Onion,4631,35460
+Karnataka,KOLAR,2005,Rabi       ,Onion,1925,11197
+Karnataka,KOLAR,2005,Summer     ,Onion,734,13347
+Karnataka,KOLAR,2006,Whole Year ,Onion,9176,52655
+Karnataka,KOLAR,2007,Kharif     ,Onion,11900,65716
+Karnataka,KOLAR,2007,Rabi       ,Onion,3473,23742
+Karnataka,KOLAR,2007,Summer     ,Onion,1816,18204
+Karnataka,KOLAR,2008,Kharif     ,Onion,4022,16193
+Karnataka,KOLAR,2008,Rabi       ,Onion,4982,22907
+Karnataka,KOLAR,2008,Summer     ,Onion,841,3443
+Karnataka,KOLAR,2009,Kharif     ,Onion,10288,18140
+Karnataka,KOLAR,2009,Rabi       ,Onion,4632,18020
+Karnataka,KOLAR,2009,Summer     ,Onion,895,7231
+Karnataka,KOLAR,2010,Kharif     ,Onion,8831,34925
+Karnataka,KOLAR,2010,Rabi       ,Onion,5439,32382
+Karnataka,KOLAR,2010,Summer     ,Onion,1116,11187
+Karnataka,KOLAR,2011,Kharif     ,Onion,13439,50455
+Karnataka,KOLAR,2011,Rabi       ,Onion,4624,25373
+Karnataka,KOLAR,2011,Summer     ,Onion,1261,7486
+Karnataka,KOLAR,2012,Kharif     ,Onion,12364,50472
+Karnataka,KOLAR,2012,Rabi       ,Onion,3892,23586
+Karnataka,KOLAR,2012,Summer     ,Onion,1566,9047
+Karnataka,KOLAR,2013,Kharif     ,Onion,11224,75002
+Karnataka,KOLAR,2013,Rabi       ,Onion,4276,27989
+Karnataka,KOLAR,2013,Summer     ,Onion,2351,14433
+Karnataka,KOLAR,2014,Kharif     ,Onion,8824,46298
+Karnataka,KOLAR,2014,Rabi       ,Onion,5373,23781
+Karnataka,KOLAR,2014,Rabi       ,Potato,2,31
+Karnataka,KOLAR,2014,Summer     ,Onion,2471,9918
+Karnataka,KOLAR,2014,Summer     ,Potato,22,302
+Karnataka,KOLAR,1998,Kharif     ,Onion,675,8324
+Karnataka,KOLAR,1998,Rabi       ,Onion,500,3536
+Karnataka,KOLAR,1998,Summer     ,Onion,411,6053
+Karnataka,KOLAR,1999,Whole Year ,Onion,1243,22282
+Karnataka,KOLAR,2000,Whole Year ,Onion,1689,17041
+Karnataka,KOLAR,2000,Whole Year ,Potato,9,84
+Karnataka,KOLAR,2001,Whole Year ,Onion,2283,19783
+Karnataka,KOLAR,2001,Whole Year ,Potato,10,90
+Karnataka,KOLAR,2002,Whole Year ,Onion,2141,15993
+Karnataka,KOLAR,2002,Whole Year ,Potato,5,10
+Karnataka,KOLAR,2002,Whole Year ,Tomato,301,988
+Karnataka,KOLAR,2003,Whole Year ,Onion,2278,23520
+Karnataka,KOLAR,2003,Whole Year ,Potato,2,10
+Karnataka,KOLAR,2003,Whole Year ,Tomato,278,1718
+Karnataka,KOLAR,2004,Whole Year ,Onion,2547,28985
+Karnataka,KOLAR,2004,Whole Year ,Potato,13,80
+Karnataka,KOLAR,2005,Kharif     ,Onion,1817,17598
+Karnataka,KOLAR,2005,Rabi       ,Onion,823,8532
+Karnataka,KOLAR,2005,Summer     ,Onion,218,3389
+Karnataka,KOLAR,2006,Whole Year ,Onion,2425,21722
+Karnataka,KOLAR,2006,Whole Year ,Potato,14,90
+Karnataka,KOLAR,2007,Kharif     ,Onion,2628,34511
+Karnataka,KOLAR,2007,Kharif     ,Potato,15,49
+Karnataka,KOLAR,2007,Rabi       ,Onion,594,4268
+Karnataka,KOLAR,2007,Summer     ,Onion,212,1791
+Karnataka,KOLAR,2008,Kharif     ,Onion,2107,21830
+Karnataka,KOLAR,2008,Kharif     ,Potato,45,85
+Karnataka,KOLAR,2008,Rabi       ,Onion,784,6424
+Karnataka,KOLAR,2008,Summer     ,Onion,331,1805
+Karnataka,KOLAR,2009,Kharif     ,Onion,2314,19903
+Karnataka,KOLAR,2009,Kharif     ,Potato,21,130
+Karnataka,KOLAR,2009,Rabi       ,Onion,733,7743
+Karnataka,KOLAR,2009,Summer     ,Onion,285,3089
+Karnataka,KOLAR,2010,Kharif     ,Onion,2310,27903
+Karnataka,KOLAR,2010,Kharif     ,Potato,1120,8508
+Karnataka,KOLAR,2010,Rabi       ,Onion,636,6398
+Karnataka,KOLAR,2010,Summer     ,Onion,222,2362
+Karnataka,KOLAR,2011,Kharif     ,Onion,2591,19640
+Karnataka,KOLAR,2011,Kharif     ,Potato,266,791
+Karnataka,KOLAR,2011,Rabi       ,Onion,851,7459
+Karnataka,KOLAR,2011,Rabi       ,Potato,2,24
+Karnataka,KOLAR,2011,Summer     ,Onion,109,671
+Karnataka,KOLAR,2012,Kharif     ,Onion,1756,18450
+Karnataka,KOLAR,2012,Kharif     ,Potato,302,2806
+Karnataka,KOLAR,2012,Rabi       ,Onion,763,7180
+Karnataka,KOLAR,2012,Rabi       ,Potato,35,594
+Karnataka,KOLAR,2012,Summer     ,Onion,98,556
+Karnataka,KOLAR,2013,Kharif     ,Onion,1683,11133
+Karnataka,KOLAR,2013,Kharif     ,Potato,271,1783
+Karnataka,KOLAR,2013,Rabi       ,Onion,921,10661
+Karnataka,KOLAR,2013,Rabi       ,Potato,61,928
+Karnataka,KOLAR,2013,Summer     ,Onion,516,4051
+Karnataka,KOLAR,2013,Summer     ,Potato,12,169
+Karnataka,KOLAR,2014,Kharif     ,Onion,1937,9948
+Karnataka,KOLAR,2014,Kharif     ,Potato,147,905
+Karnataka,KOLAR,2014,Rabi       ,Onion,864,8059
+Karnataka,KOLAR,2014,Rabi       ,Potato,23,354
+Karnataka,KOLAR,2014,Summer     ,Onion,678,3326
+Karnataka,KOLAR,2014,Summer     ,Potato,3,41
+Karnataka,KOLAR,2007,Kharif     ,Onion,277,1651
+Karnataka,KOLAR,2007,Kharif     ,Potato,348,1148
+Karnataka,KOLAR,2007,Rabi       ,Onion,156,1313
+Karnataka,KOLAR,2007,Rabi       ,Potato,599,7772
+Karnataka,KOLAR,2007,Summer     ,Onion,159,1343
+Karnataka,KOLAR,2007,Summer     ,Potato,78,1244
+Karnataka,KOLAR,2008,Kharif     ,Onion,296,1535
+Karnataka,KOLAR,2008,Kharif     ,Potato,349,662
+Karnataka,KOLAR,2008,Rabi       ,Onion,269,1796
+Karnataka,KOLAR,2008,Rabi       ,Potato,567,15192
+Karnataka,KOLAR,2008,Summer     ,Onion,44,240
+Karnataka,KOLAR,2008,Summer     ,Potato,15,241
+Karnataka,KOLAR,2009,Kharif     ,Onion,367,1296
+Karnataka,KOLAR,2009,Kharif     ,Potato,435,2691
+Karnataka,KOLAR,2009,Rabi       ,Onion,139,2212
+Karnataka,KOLAR,2009,Rabi       ,Potato,629,13463
+Karnataka,KOLAR,2009,Summer     ,Onion,33,252
+Karnataka,KOLAR,2009,Summer     ,Potato,30,480
+Karnataka,KOLAR,2010,Kharif     ,Onion,572,4026
+Karnataka,KOLAR,2010,Kharif     ,Potato,990,10891
+Karnataka,KOLAR,2010,Rabi       ,Onion,605,4143
+Karnataka,KOLAR,2010,Rabi       ,Potato,1325,15194
+Karnataka,KOLAR,2010,Summer     ,Onion,15,160
+Karnataka,KOLAR,2010,Summer     ,Potato,17,261
+Karnataka,KOLAR,2011,Kharif     ,Onion,503,2483
+Karnataka,KOLAR,2011,Kharif     ,Potato,175,3340
+Karnataka,KOLAR,2011,Rabi       ,Onion,663,3406
+Karnataka,KOLAR,2011,Rabi       ,Potato,2150,19679
+Karnataka,KOLAR,2011,Summer     ,Onion,75,462
+Karnataka,KOLAR,2011,Summer     ,Potato,20,289
+Karnataka,KOLAR,2012,Kharif     ,Onion,464,2463
+Karnataka,KOLAR,2012,Kharif     ,Potato,175,2997
+Karnataka,KOLAR,2012,Rabi       ,Onion,665,8334
+Karnataka,KOLAR,2012,Rabi       ,Potato,2548,26186
+Karnataka,KOLAR,2012,Summer     ,Onion,60,340
+Karnataka,KOLAR,2012,Summer     ,Potato,17,371
+Karnataka,KOLAR,2013,Kharif     ,Onion,413,2732
+Karnataka,KOLAR,2013,Kharif     ,Potato,178,3034
+Karnataka,KOLAR,2013,Rabi       ,Onion,647,1433
+Karnataka,KOLAR,2013,Rabi       ,Potato,2405,27675
+Karnataka,KOLAR,2013,Summer     ,Onion,56,440
+Karnataka,KOLAR,2013,Summer     ,Potato,15,211
+Karnataka,KOLAR,2014,Kharif     ,Onion,563,2891
+Karnataka,KOLAR,2014,Kharif     ,Potato,209,2659
+Karnataka,KOLAR,2014,Rabi       ,Onion,743,4697
+Karnataka,KOLAR,2014,Rabi       ,Potato,2650,29905
+Karnataka,KOLAR,2014,Summer     ,Onion,47,231
+Karnataka,KOLAR,2014,Summer     ,Potato,14,192
+Karnataka,KOLAR,1998,Kharif     ,Onion,2506,22574
+Karnataka,KOLAR,1998,Kharif     ,Potato,900,14083
+Karnataka,KOLAR,1998,Rabi       ,Onion,10,103
+Karnataka,KOLAR,1999,Whole Year ,Onion,2814,30946
+Karnataka,KOLAR,1999,Whole Year ,Potato,1024,16070
+Karnataka,KOLAR,2000,Whole Year ,Onion,2886,22825
+Karnataka,KOLAR,2000,Whole Year ,Potato,853,8305
+Karnataka,KOLAR,2001,Whole Year ,Onion,3130,15600
+Karnataka,KOLAR,2001,Whole Year ,Potato,2552,23524
+Karnataka,KOLAR,2002,Whole Year ,Onion,3102,21476
+Karnataka,KOLAR,2002,Whole Year ,Potato,1265,2868
+Karnataka,KOLAR,2002,Whole Year ,Tomato,971,10417
+Karnataka,KOLAR,2003,Whole Year ,Onion,3375,14091
+Karnataka,KOLAR,2003,Whole Year ,Potato,3454,20360
+Karnataka,KOLAR,2003,Whole Year ,Tomato,586,5264
+Karnataka,KOLAR,2004,Whole Year ,Onion,5608,37927
+Karnataka,KOLAR,2004,Whole Year ,Potato,4051,32815
+Karnataka,KOLAR,2005,Kharif     ,Onion,6663,49740
+Karnataka,KOLAR,2005,Kharif     ,Potato,4388,20864
+Karnataka,KOLAR,2005,Rabi       ,Onion,9,93
+Karnataka,KOLAR,2005,Rabi       ,Potato,22,398
+Karnataka,KOLAR,2005,Summer     ,Onion,2,33
+Karnataka,KOLAR,2006,Whole Year ,Onion,4043,25486
+Karnataka,KOLAR,2006,Whole Year ,Potato,4484,37548
+Karnataka,KOLAR,2007,Kharif     ,Onion,3735,22496
+Karnataka,KOLAR,2007,Kharif     ,Potato,4279,25268
+Karnataka,KOLAR,2007,Rabi       ,Onion,21,177
+Karnataka,KOLAR,2007,Rabi       ,Potato,32,394
+Karnataka,KOLAR,2007,Summer     ,Onion,2,17
+Karnataka,KOLAR,2008,Kharif     ,Onion,3575,20812
+Karnataka,KOLAR,2008,Kharif     ,Potato,4418,13892
+Karnataka,KOLAR,2008,Rabi       ,Onion,15,100
+Karnataka,KOLAR,2008,Rabi       ,Potato,18,259
+Karnataka,KOLAR,2008,Summer     ,Onion,2,11
+Karnataka,KOLAR,2009,Kharif     ,Onion,2792,24699
+Karnataka,KOLAR,2009,Kharif     ,Potato,4550,31909
+Karnataka,KOLAR,2009,Rabi       ,Potato,28,413
+Karnataka,KOLAR,2009,Summer     ,Onion,2,15
+Karnataka,KOLAR,2010,Kharif     ,Onion,2505,24733
+Karnataka,KOLAR,2010,Kharif     ,Potato,5000,29954
+Karnataka,KOLAR,2010,Rabi       ,Potato,21,244
+Karnataka,KOLAR,2010,Summer     ,Onion,3,32
+Karnataka,KOLAR,2011,Kharif     ,Onion,2531,16394
+Karnataka,KOLAR,2011,Kharif     ,Potato,5271,41031
+Karnataka,KOLAR,2011,Rabi       ,Potato,17,207
+Karnataka,KOLAR,2011,Summer     ,Onion,5,31
+Karnataka,KOLAR,2012,Kharif     ,Onion,5327,35480
+Karnataka,KOLAR,2012,Kharif     ,Potato,4577,19462
+Karnataka,KOLAR,2012,Rabi       ,Potato,12,204
+Karnataka,KOLAR,2012,Summer     ,Onion,7,40
+Karnataka,KOLAR,2013,Kharif     ,Onion,5352,34538
+Karnataka,KOLAR,2013,Kharif     ,Potato,4426,26389
+Karnataka,KOLAR,2013,Rabi       ,Potato,9,137
+Karnataka,KOLAR,2013,Summer     ,Onion,11,86
+Karnataka,KOLAR,2014,Kharif     ,Onion,7343,38374
+Karnataka,KOLAR,2014,Kharif     ,Potato,5150,30006
+Karnataka,KOLAR,2014,Rabi       ,Potato,6,92
+Karnataka,KOLAR,2014,Summer     ,Onion,14,69
+Karnataka,KOLAR,1998,Kharif     ,Onion,10982,83672
+Karnataka,KOLAR,1998,Rabi       ,Onion,199,2006
+Karnataka,KOLAR,1998,Summer     ,Onion,419,2620
+Karnataka,KOLAR,1999,Whole Year ,Onion,18323,136619
+Karnataka,KOLAR,2000,Whole Year ,Onion,15450,139200
+Karnataka,KOLAR,2001,Whole Year ,Onion,14310,87444
+Karnataka,KOLAR,2002,Whole Year ,Onion,10886,77697
+Karnataka,KOLAR,2002,Whole Year ,Tomato,731,2640
+Karnataka,KOLAR,2003,Whole Year ,Onion,10113,63625
+Karnataka,KOLAR,2003,Whole Year ,Tomato,789,2581
+Karnataka,KOLAR,2004,Whole Year ,Onion,13134,100647
+Karnataka,KOLAR,2005,Kharif     ,Onion,13189,124143
+Karnataka,KOLAR,2005,Rabi       ,Onion,1276,13228
+Karnataka,KOLAR,2005,Summer     ,Onion,439,6045
+Karnataka,KOLAR,2006,Whole Year ,Onion,14255,103526
+Karnataka,KOLAR,2007,Kharif     ,Onion,13687,91994
+Karnataka,KOLAR,2007,Rabi       ,Onion,610,3547
+Karnataka,KOLAR,2007,Summer     ,Onion,268,1904
+Karnataka,KOLAR,2008,Kharif     ,Onion,14810,85458
+Karnataka,KOLAR,2008,Kharif     ,Potato,2,4
+Karnataka,KOLAR,2008,Rabi       ,Onion,398,2955
+Karnataka,KOLAR,2008,Summer     ,Onion,120,660
+Karnataka,KOLAR,2009,Kharif     ,Onion,21717,125149
+Karnataka,KOLAR,2009,Rabi       ,Onion,384,2330
+Karnataka,KOLAR,2009,Summer     ,Onion,125,954
+Karnataka,KOLAR,2010,Kharif     ,Onion,15607,94535
+Karnataka,KOLAR,2010,Kharif     ,Potato,5,38
+Karnataka,KOLAR,2010,Rabi       ,Onion,189,1294
+Karnataka,KOLAR,2010,Summer     ,Onion,116,1234
+Karnataka,KOLAR,2011,Kharif     ,Onion,14888,83758
+Karnataka,KOLAR,2011,Kharif     ,Potato,4,33
+Karnataka,KOLAR,2011,Rabi       ,Onion,154,1226
+Karnataka,KOLAR,2011,Summer     ,Onion,100,616
+Karnataka,KOLAR,2012,Kharif     ,Onion,11592,63696
+Karnataka,KOLAR,2012,Rabi       ,Onion,158,1034
+Karnataka,KOLAR,2012,Summer     ,Onion,141,800
+Karnataka,KOLAR,2013,Kharif     ,Onion,11495,75732
+Karnataka,KOLAR,2013,Kharif     ,Potato,23,151
+Karnataka,KOLAR,2013,Rabi       ,Onion,4592,32264
+Karnataka,KOLAR,2013,Summer     ,Onion,245,1923
+Karnataka,KOLAR,2014,Kharif     ,Onion,24129,201925
+Karnataka,KOLAR,2014,Rabi       ,Onion,1282,8496
+Karnataka,KOLAR,2014,Summer     ,Onion,453,2222
+Karnataka,KOLAR,1998,Kharif     ,Onion,5640,37540
+Karnataka,KOLAR,1998,Kharif     ,Potato,1,11
+Karnataka,KOLAR,1998,Rabi       ,Onion,72,390
+Karnataka,KOLAR,1998,Summer     ,Onion,140,670
+Karnataka,KOLAR,1999,Whole Year ,Onion,8520,56489
+Karnataka,KOLAR,1999,Whole Year ,Potato,12,225
+Karnataka,KOLAR,2000,Whole Year ,Onion,8150,51988
+Karnataka,KOLAR,2001,Whole Year ,Onion,6422,48789
+Karnataka,KOLAR,2001,Whole Year ,Potato,7,63
+Karnataka,KOLAR,2002,Whole Year ,Onion,4661,27044
+Karnataka,KOLAR,2002,Whole Year ,Tomato,915,6719
+Karnataka,KOLAR,2003,Whole Year ,Onion,4606,51174
+Karnataka,KOLAR,2003,Whole Year ,Potato,1,5
+Karnataka,KOLAR,2003,Whole Year ,Tomato,954,4781
+Karnataka,KOLAR,2004,Whole Year ,Onion,5459,62703
+Karnataka,KOLAR,2004,Whole Year ,Potato,3,19
+Karnataka,KOLAR,2005,Kharif     ,Onion,7036,59436
+Karnataka,KOLAR,2005,Kharif     ,Potato,2,7
+Karnataka,KOLAR,2005,Rabi       ,Onion,626,6489
+Karnataka,KOLAR,2005,Summer     ,Onion,73,1214
+Karnataka,KOLAR,2006,Whole Year ,Onion,6620,57683
+Karnataka,KOLAR,2006,Whole Year ,Potato,10,64
+Karnataka,KOLAR,2007,Kharif     ,Onion,6298,67334
+Karnataka,KOLAR,2007,Kharif     ,Potato,30,99
+Karnataka,KOLAR,2007,Rabi       ,Onion,605,3347
+Karnataka,KOLAR,2007,Summer     ,Onion,32,270
+Karnataka,KOLAR,2008,Kharif     ,Onion,6120,53123
+Karnataka,KOLAR,2008,Kharif     ,Potato,69,131
+Karnataka,KOLAR,2008,Rabi       ,Onion,497,3800
+Karnataka,KOLAR,2008,Summer     ,Onion,117,638
+Karnataka,KOLAR,2009,Kharif     ,Onion,5717,39262
+Karnataka,KOLAR,2009,Kharif     ,Potato,24,148
+Karnataka,KOLAR,2009,Rabi       ,Onion,549,4461
+Karnataka,KOLAR,2009,Summer     ,Onion,92,702
+Karnataka,KOLAR,2010,Kharif     ,Onion,5512,46766
+Karnataka,KOLAR,2010,Kharif     ,Potato,80,608
+Karnataka,KOLAR,2010,Rabi       ,Onion,1033,7602
+Karnataka,KOLAR,2010,Summer     ,Onion,706,7511
+Karnataka,KOLAR,2011,Kharif     ,Onion,4427,31929
+Karnataka,KOLAR,2011,Kharif     ,Potato,97,802
+Karnataka,KOLAR,2011,Rabi       ,Onion,664,3403
+Karnataka,KOLAR,2011,Summer     ,Onion,392,1014
+Karnataka,KOLAR,2012,Kharif     ,Onion,2806,14704
+Karnataka,KOLAR,2012,Kharif     ,Potato,7,45
+Karnataka,KOLAR,2012,Rabi       ,Onion,264,1309
+Karnataka,KOLAR,2012,Summer     ,Onion,338,829
+Karnataka,KOLAR,2013,Kharif     ,Onion,3327,18964
+Karnataka,KOLAR,2013,Kharif     ,Potato,56,368
+Karnataka,KOLAR,2013,Rabi       ,Onion,3328,23383
+Karnataka,KOLAR,2013,Summer     ,Onion,232,1821
+Karnataka,KOLAR,2014,Kharif     ,Onion,6139,35715
+Karnataka,KOLAR,2014,Kharif     ,Potato,24,148
+Karnataka,KOLAR,2014,Rabi       ,Onion,639,4235
+Karnataka,KOLAR,2014,Summer     ,Onion,16,78
+Karnataka,KOLAR,1998,Kharif     ,Onion,16658,46526
+Karnataka,KOLAR,1998,Kharif     ,Potato,5488,55835
+Karnataka,KOLAR,1998,Rabi       ,Onion,412,4224
+Karnataka,KOLAR,1998,Summer     ,Onion,5,58
+Karnataka,KOLAR,1999,Whole Year ,Onion,36887,145688
+Karnataka,KOLAR,2000,Whole Year ,Onion,35186,99266
+Karnataka,KOLAR,2000,Whole Year ,Potato,4638,36839
+Karnataka,KOLAR,2001,Whole Year ,Onion,32320,85801
+Karnataka,KOLAR,2001,Whole Year ,Potato,2211,2056
+Karnataka,KOLAR,2002,Whole Year ,Onion,29025,65301
+Karnataka,KOLAR,2002,Whole Year ,Potato,2224,1762
+Karnataka,KOLAR,2002,Whole Year ,Tomato,661,2383
+Karnataka,KOLAR,2003,Whole Year ,Onion,39483,9586
+Karnataka,KOLAR,2003,Whole Year ,Potato,2054,62
+Karnataka,KOLAR,2003,Whole Year ,Tomato,547,1103
+Karnataka,KOLAR,2004,Whole Year ,Onion,38112,114847
+Karnataka,KOLAR,2004,Whole Year ,Potato,284,914
+Karnataka,KOLAR,2005,Kharif     ,Onion,38798,136154
+Karnataka,KOLAR,2005,Kharif     ,Potato,733,2849
+Karnataka,KOLAR,2005,Rabi       ,Onion,54,560
+Karnataka,KOLAR,2005,Summer     ,Onion,3,32
+Karnataka,KOLAR,2006,Whole Year ,Onion,43015,182949
+Karnataka,KOLAR,2006,Whole Year ,Potato,1234,13881
+Karnataka,KOLAR,2007,Kharif     ,Onion,43194,260937
+Karnataka,KOLAR,2007,Kharif     ,Potato,1890,11355
+Karnataka,KOLAR,2007,Rabi       ,Onion,8,67
+Karnataka,KOLAR,2007,Rabi       ,Potato,29,357
+Karnataka,KOLAR,2007,Summer     ,Onion,10,84
+Karnataka,KOLAR,2008,Kharif     ,Onion,26962,75459
+Karnataka,KOLAR,2008,Kharif     ,Potato,1268,4776
+Karnataka,KOLAR,2008,Rabi       ,Onion,11,73
+Karnataka,KOLAR,2008,Rabi       ,Potato,76,1092
+Karnataka,KOLAR,2008,Summer     ,Onion,5,27
+Karnataka,KOLAR,2009,Kharif     ,Onion,42879,100330
+Karnataka,KOLAR,2009,Kharif     ,Potato,952,2960
+Karnataka,KOLAR,2009,Rabi       ,Onion,10,59
+Karnataka,KOLAR,2009,Rabi       ,Potato,175,2584
+Karnataka,KOLAR,2009,Summer     ,Onion,2,15
+Karnataka,KOLAR,2010,Kharif     ,Onion,28152,153192
+Karnataka,KOLAR,2010,Kharif     ,Potato,1017,8070
+Karnataka,KOLAR,2010,Rabi       ,Onion,15,103
+Karnataka,KOLAR,2010,Rabi       ,Potato,125,1455
+Karnataka,KOLAR,2010,Summer     ,Onion,7,74
+Karnataka,KOLAR,2011,Kharif     ,Onion,21641,73334
+Karnataka,KOLAR,2011,Kharif     ,Potato,1109,10022
+Karnataka,KOLAR,2011,Rabi       ,Onion,2,16
+Karnataka,KOLAR,2011,Rabi       ,Potato,73,887
+Karnataka,KOLAR,2011,Summer     ,Onion,2,12
+Karnataka,KOLAR,2012,Kharif     ,Onion,1442,2367
+Karnataka,KOLAR,2012,Kharif     ,Potato,625,2227
+Karnataka,KOLAR,2012,Rabi       ,Onion,3,20
+Karnataka,KOLAR,2012,Rabi       ,Potato,26,442
+Karnataka,KOLAR,2012,Summer     ,Onion,2,11
+Karnataka,KOLAR,2012,Summer     ,Potato,20,436
+Karnataka,KOLAR,2013,Kharif     ,Onion,21220,141315
+Karnataka,KOLAR,2013,Kharif     ,Potato,1157,7612
+Karnataka,KOLAR,2013,Rabi       ,Onion,11,77
+Karnataka,KOLAR,2013,Rabi       ,Potato,79,1202
+Karnataka,KOLAR,2013,Summer     ,Potato,3,42
+Karnataka,KOLAR,2014,Kharif     ,Onion,35455,109602
+Karnataka,KOLAR,2014,Kharif     ,Potato,1286,7917
+Karnataka,KOLAR,2014,Rabi       ,Potato,193,2973
+Karnataka,KOLAR,2014,Summer     ,Onion,2,10
+Karnataka,KOLAR,1998,Kharif     ,Onion,11756,19962
+Karnataka,KOLAR,1998,Rabi       ,Onion,178,1784
+Karnataka,KOLAR,1998,Summer     ,Onion,174,2007
+Karnataka,KOLAR,1999,Whole Year ,Onion,19953,114309
+Karnataka,KOLAR,2000,Whole Year ,Onion,23877,133567
+Karnataka,KOLAR,2000,Whole Year ,Potato,2,19
+Karnataka,KOLAR,2001,Whole Year ,Onion,30560,114753
+Karnataka,KOLAR,2002,Whole Year ,Onion,28063,57276
+Karnataka,KOLAR,2002,Whole Year ,Tomato,333,2367
+Karnataka,KOLAR,2003,Whole Year ,Onion,12183,25249
+Karnataka,KOLAR,2003,Whole Year ,Tomato,257,1326
+Karnataka,KOLAR,2004,Whole Year ,Onion,30434,190133
+Karnataka,KOLAR,2005,Kharif     ,Onion,31782,143024
+Karnataka,KOLAR,2005,Rabi       ,Onion,266,2757
+Karnataka,KOLAR,2005,Summer     ,Onion,203,3326
+Karnataka,KOLAR,2006,Whole Year ,Onion,34577,182711
+Karnataka,KOLAR,2007,Kharif     ,Onion,40648,188444
+Karnataka,KOLAR,2007,Rabi       ,Onion,168,1415
+Karnataka,KOLAR,2007,Summer     ,Onion,141,1191
+Karnataka,KOLAR,2008,Kharif     ,Onion,32691,173171
+Karnataka,KOLAR,2008,Rabi       ,Onion,242,1616
+Karnataka,KOLAR,2008,Summer     ,Onion,99,540
+Karnataka,KOLAR,2009,Kharif     ,Onion,47235,153601
+Karnataka,KOLAR,2009,Rabi       ,Onion,433,2565
+Karnataka,KOLAR,2009,Summer     ,Onion,140,1069
+Karnataka,KOLAR,2010,Kharif     ,Onion,43374,244224
+Karnataka,KOLAR,2010,Rabi       ,Onion,416,2849
+Karnataka,KOLAR,2010,Summer     ,Onion,132,1404
+Karnataka,KOLAR,2011,Kharif     ,Onion,34982,121533
+Karnataka,KOLAR,2011,Rabi       ,Onion,287,2284
+Karnataka,KOLAR,2011,Summer     ,Onion,119,733
+Karnataka,KOLAR,2012,Kharif     ,Onion,8834,26444
+Karnataka,KOLAR,2012,Rabi       ,Onion,614,4019
+Karnataka,KOLAR,2012,Summer     ,Onion,159,902
+Karnataka,KOLAR,2013,Kharif     ,Onion,27890,138386
+Karnataka,KOLAR,2013,Rabi       ,Onion,675,3492
+Karnataka,KOLAR,2013,Summer     ,Onion,137,1076
+Karnataka,KOLAR,2014,Kharif     ,Onion,40943,155350
+Karnataka,KOLAR,2014,Rabi       ,Onion,188,1100
+Karnataka,KOLAR,2014,Summer     ,Onion,192,942
+Karnataka,KOLAR,1998,Kharif     ,Onion,1674,9415
+Karnataka,KOLAR,1998,Rabi       ,Onion,1301,11174
+Karnataka,KOLAR,1998,Rabi       ,Potato,2,39
+Karnataka,KOLAR,1998,Summer     ,Onion,79,430
+Karnataka,KOLAR,1999,Whole Year ,Onion,3327,26425
+Karnataka,KOLAR,1999,Whole Year ,Potato,23,447
+Karnataka,KOLAR,2000,Whole Year ,Onion,3002,16974
+Karnataka,KOLAR,2000,Whole Year ,Potato,2,31
+Karnataka,KOLAR,2001,Whole Year ,Onion,3486,25953
+Karnataka,KOLAR,2001,Whole Year ,Potato,2,44
+Karnataka,KOLAR,2002,Whole Year ,Onion,2399,19462
+Karnataka,KOLAR,2002,Whole Year ,Potato,2,26
+Karnataka,KOLAR,2002,Whole Year ,Tomato,638,4216
+Karnataka,KOLAR,2003,Whole Year ,Onion,1798,23597
+Karnataka,KOLAR,2003,Whole Year ,Potato,4,69
+Karnataka,KOLAR,2003,Whole Year ,Tomato,303,4227
+Karnataka,KOLAR,2004,Whole Year ,Onion,1919,16844
+Karnataka,KOLAR,2004,Whole Year ,Potato,4,66
+Karnataka,KOLAR,2005,Kharif     ,Onion,868,4836
+Karnataka,KOLAR,2005,Kharif     ,Potato,2,7
+Karnataka,KOLAR,2005,Rabi       ,Onion,1898,28433
+Karnataka,KOLAR,2005,Rabi       ,Potato,7,127
+Karnataka,KOLAR,2005,Summer     ,Onion,85,1469
+Karnataka,KOLAR,2006,Whole Year ,Onion,2345,19607
+Karnataka,KOLAR,2006,Whole Year ,Potato,16,247
+Karnataka,KOLAR,2007,Kharif     ,Onion,1519,9055
+Karnataka,KOLAR,2007,Kharif     ,Potato,44,145
+Karnataka,KOLAR,2007,Rabi       ,Onion,1255,18001
+Karnataka,KOLAR,2007,Rabi       ,Potato,5,62
+Karnataka,KOLAR,2007,Summer     ,Onion,92,777
+Karnataka,KOLAR,2008,Kharif     ,Onion,1121,3441
+Karnataka,KOLAR,2008,Kharif     ,Potato,4,8
+Karnataka,KOLAR,2008,Rabi       ,Onion,1204,14014
+Karnataka,KOLAR,2008,Rabi       ,Potato,4,57
+Karnataka,KOLAR,2008,Summer     ,Onion,124,676
+Karnataka,KOLAR,2009,Kharif     ,Onion,934,2929
+Karnataka,KOLAR,2009,Kharif     ,Potato,4,25
+Karnataka,KOLAR,2009,Rabi       ,Onion,1274,9335
+Karnataka,KOLAR,2009,Rabi       ,Potato,4,59
+Karnataka,KOLAR,2009,Summer     ,Onion,123,939
+Karnataka,KOLAR,2010,Kharif     ,Onion,523,4242
+Karnataka,KOLAR,2010,Kharif     ,Potato,8,61
+Karnataka,KOLAR,2010,Rabi       ,Onion,664,6733
+Karnataka,KOLAR,2010,Summer     ,Onion,191,2032
+Karnataka,KOLAR,2011,Kharif     ,Onion,734,3623
+Karnataka,KOLAR,2011,Kharif     ,Potato,100,826
+Karnataka,KOLAR,2011,Rabi       ,Onion,799,18982
+Karnataka,KOLAR,2011,Summer     ,Onion,93,573
+Karnataka,KOLAR,2012,Kharif     ,Onion,741,3934
+Karnataka,KOLAR,2012,Kharif     ,Potato,29,185
+Karnataka,KOLAR,2012,Rabi       ,Onion,337,4227
+Karnataka,KOLAR,2012,Summer     ,Onion,51,289
+Karnataka,KOLAR,2013,Kharif     ,Onion,711,4703
+Karnataka,KOLAR,2013,Kharif     ,Potato,4,26
+Karnataka,KOLAR,2013,Rabi       ,Onion,373,4867
+Karnataka,KOLAR,2013,Summer     ,Onion,41,322
+Karnataka,KOLAR,2014,Kharif     ,Onion,710,3646
+Karnataka,KOLAR,2014,Kharif     ,Potato,53,326
+Karnataka,KOLAR,2014,Rabi       ,Onion,453,11671
+Karnataka,KOLAR,2014,Summer     ,Onion,117,574
+Karnataka,KOLAR,1998,Kharif     ,Onion,34,154
+Karnataka,KOLAR,1998,Kharif     ,Potato,14692,153737
+Karnataka,KOLAR,1998,Rabi       ,Onion,3,31
+Karnataka,KOLAR,1998,Rabi       ,Potato,506,5795
+Karnataka,KOLAR,1998,Summer     ,Onion,3,35
+Karnataka,KOLAR,1998,Summer     ,Potato,205,2369
+Karnataka,KOLAR,1999,Whole Year ,Onion,67,415
+Karnataka,KOLAR,1999,Whole Year ,Potato,11247,139906
+Karnataka,KOLAR,2000,Whole Year ,Onion,230,1255
+Karnataka,KOLAR,2000,Whole Year ,Potato,14230,142180
+Karnataka,KOLAR,2001,Whole Year ,Onion,326,2212
+Karnataka,KOLAR,2001,Whole Year ,Potato,15367,138495
+Karnataka,KOLAR,2002,Whole Year ,Onion,325,1785
+Karnataka,KOLAR,2002,Whole Year ,Potato,35647,50077
+Karnataka,KOLAR,2002,Whole Year ,Tomato,2501,25279
+Karnataka,KOLAR,2003,Whole Year ,Onion,240,693
+Karnataka,KOLAR,2003,Whole Year ,Potato,35363,155712
+Karnataka,KOLAR,2003,Whole Year ,Tomato,1311,13285
+Karnataka,KOLAR,2004,Whole Year ,Onion,107,624
+Karnataka,KOLAR,2004,Whole Year ,Potato,36151,183135
+Karnataka,KOLAR,2005,Kharif     ,Onion,157,875
+Karnataka,KOLAR,2005,Kharif     ,Potato,55716,185997
+Karnataka,KOLAR,2005,Rabi       ,Potato,50,904
+Karnataka,KOLAR,2005,Summer     ,Potato,25,360
+Karnataka,KOLAR,2006,Whole Year ,Onion,144,802
+Karnataka,KOLAR,2006,Whole Year ,Potato,42834,263565
+Karnataka,KOLAR,2007,Kharif     ,Onion,159,948
+Karnataka,KOLAR,2007,Kharif     ,Potato,43327,110804
+Karnataka,KOLAR,2007,Rabi       ,Potato,26,320
+Karnataka,KOLAR,2008,Kharif     ,Onion,133,690
+Karnataka,KOLAR,2008,Kharif     ,Potato,57481,78143
+Karnataka,KOLAR,2008,Rabi       ,Potato,15,216
+Karnataka,KOLAR,2009,Kharif     ,Onion,90,318
+Karnataka,KOLAR,2009,Kharif     ,Potato,18250,81434
+Karnataka,KOLAR,2009,Rabi       ,Potato,15,221
+Karnataka,KOLAR,2010,Kharif     ,Onion,115,718
+Karnataka,KOLAR,2010,Kharif     ,Potato,20610,139465
+Karnataka,KOLAR,2010,Rabi       ,Potato,37,431
+Karnataka,KOLAR,2011,Kharif     ,Onion,128,632
+Karnataka,KOLAR,2011,Kharif     ,Potato,20267,152412
+Karnataka,KOLAR,2011,Rabi       ,Onion,7,56
+Karnataka,KOLAR,2011,Rabi       ,Potato,19,231
+Karnataka,KOLAR,2011,Summer     ,Potato,2,29
+Karnataka,KOLAR,2012,Kharif     ,Onion,82,435
+Karnataka,KOLAR,2012,Kharif     ,Potato,16245,84062
+Karnataka,KOLAR,2013,Kharif     ,Onion,25,165
+Karnataka,KOLAR,2013,Kharif     ,Potato,18561,90157
+Karnataka,KOLAR,2013,Rabi       ,Onion,26,183
+Karnataka,KOLAR,2014,Kharif     ,Onion,23,118
+Karnataka,KOLAR,2014,Kharif     ,Potato,22207,124934
+Karnataka,KOLAR,2014,Rabi       ,Onion,48,318
+Karnataka,KOLAR,2014,Rabi       ,Potato,10,154
+Karnataka,KOLAR,2014,Summer     ,Onion,5,25
+Karnataka,KOLAR,2014,Summer     ,Potato,4,55
+Karnataka,KOLAR,1998,Kharif     ,Onion,9054,31372
+Karnataka,KOLAR,1998,Rabi       ,Onion,143,260
+Karnataka,KOLAR,1998,Summer     ,Onion,42,485
+Karnataka,KOLAR,1999,Whole Year ,Onion,7772,8752
+Karnataka,KOLAR,2000,Whole Year ,Onion,7044,17951
+Karnataka,KOLAR,2000,Whole Year ,Potato,3,28
+Karnataka,KOLAR,2001,Whole Year ,Onion,4512,14019
+Karnataka,KOLAR,2002,Whole Year ,Onion,7809,10550
+Karnataka,KOLAR,2002,Whole Year ,Potato,14,28
+Karnataka,KOLAR,2002,Whole Year ,Tomato,1281,4679
+Karnataka,KOLAR,2003,Whole Year ,Onion,6568,20412
+Karnataka,KOLAR,2003,Whole Year ,Potato,1,5
+Karnataka,KOLAR,2003,Whole Year ,Tomato,1486,5520
+Karnataka,KOLAR,2004,Whole Year ,Onion,10372,53516
+Karnataka,KOLAR,2004,Whole Year ,Potato,1,6
+Karnataka,KOLAR,2005,Kharif     ,Onion,11134,60026
+Karnataka,KOLAR,2005,Kharif     ,Potato,1,3
+Karnataka,KOLAR,2005,Rabi       ,Onion,121,1254
+Karnataka,KOLAR,2005,Summer     ,Onion,88,1505
+Karnataka,KOLAR,2006,Whole Year ,Onion,9949,27137
+Karnataka,KOLAR,2006,Whole Year ,Potato,2,13
+Karnataka,KOLAR,2007,Kharif     ,Onion,8266,30900
+Karnataka,KOLAR,2007,Rabi       ,Onion,79,665
+Karnataka,KOLAR,2007,Summer     ,Onion,40,338
+Karnataka,KOLAR,2008,Kharif     ,Onion,6248,36225
+Karnataka,KOLAR,2008,Rabi       ,Onion,106,708
+Karnataka,KOLAR,2008,Summer     ,Onion,16,87
+Karnataka,KOLAR,2009,Kharif     ,Onion,5529,17806
+Karnataka,KOLAR,2009,Rabi       ,Onion,98,581
+Karnataka,KOLAR,2009,Summer     ,Onion,37,282
+Karnataka,KOLAR,2010,Kharif     ,Onion,4249,22920
+Karnataka,KOLAR,2010,Rabi       ,Onion,117,801
+Karnataka,KOLAR,2010,Summer     ,Onion,73,777
+Karnataka,KOLAR,2011,Kharif     ,Onion,3805,22195
+Karnataka,KOLAR,2011,Rabi       ,Onion,72,573
+Karnataka,KOLAR,2011,Summer     ,Onion,11,68
+Karnataka,KOLAR,2012,Kharif     ,Onion,2744,3785
+Karnataka,KOLAR,2012,Rabi       ,Onion,69,452
+Karnataka,KOLAR,2012,Summer     ,Onion,35,199
+Karnataka,KOLAR,2013,Kharif     ,Onion,3245,29490
+Karnataka,KOLAR,2013,Rabi       ,Onion,142,998
+Karnataka,KOLAR,2013,Summer     ,Onion,69,542
+Karnataka,KOLAR,2014,Kharif     ,Onion,5847,10676
+Karnataka,KOLAR,2014,Kharif     ,Potato,1,6
+Karnataka,KOLAR,2014,Rabi       ,Onion,137,908
+Karnataka,KOLAR,2014,Summer     ,Onion,60,294
+Karnataka,KOLAR,1999,Whole Year ,Onion,15,88
+Karnataka,KOLAR,2002,Whole Year ,Tomato,7,64
+Karnataka,KOLAR,2003,Whole Year ,Tomato,7,52
+Karnataka,KOLAR,2005,Kharif     ,Potato,135,452
+Karnataka,KOLAR,2006,Whole Year ,Potato,123,787
+Karnataka,KOLAR,2007,Kharif     ,Potato,85,280
+Karnataka,KOLAR,2008,Kharif     ,Potato,85,161
+Karnataka,KOLAR,2008,Summer     ,Potato,5,80
+Karnataka,KOLAR,2009,Kharif     ,Potato,76,470
+Karnataka,KOLAR,2009,Summer     ,Potato,5,80
+Karnataka,KOLAR,2010,Kharif     ,Potato,18,137
+Karnataka,KOLAR,2010,Summer     ,Potato,5,77
+Karnataka,KOLAR,2011,Kharif     ,Potato,16,132
+Karnataka,KOLAR,2012,Kharif     ,Potato,7,45
+Karnataka,KOLAR,2013,Kharif     ,Potato,7,46
+Karnataka,KOLAR,2014,Kharif     ,Potato,18,111
+Karnataka,KOLAR,1998,Kharif     ,Onion,773,11697
+Karnataka,KOLAR,1998,Kharif     ,Potato,1410,17952
+Karnataka,KOLAR,1998,Rabi       ,Onion,1423,19450
+Karnataka,KOLAR,1998,Rabi       ,Potato,3368,69974
+Karnataka,KOLAR,1998,Summer     ,Onion,51,588
+Karnataka,KOLAR,1998,Summer     ,Potato,216,5069
+Karnataka,KOLAR,1999,Whole Year ,Onion,1476,22878
+Karnataka,KOLAR,1999,Whole Year ,Potato,7739,151312
+Karnataka,KOLAR,2000,Whole Year ,Onion,2143,15646
+Karnataka,KOLAR,2000,Whole Year ,Potato,10372,170713
+Karnataka,KOLAR,2001,Whole Year ,Onion,1779,18154
+Karnataka,KOLAR,2001,Whole Year ,Potato,11834,214109
+Karnataka,KOLAR,2002,Whole Year ,Onion,1568,8929
+Karnataka,KOLAR,2002,Whole Year ,Potato,5550,48176
+Karnataka,KOLAR,2002,Whole Year ,Tomato,7532,58006
+Karnataka,KOLAR,2003,Whole Year ,Onion,1760,8616
+Karnataka,KOLAR,2003,Whole Year ,Potato,5116,91056
+Karnataka,KOLAR,2003,Whole Year ,Tomato,6618,66553
+Karnataka,KOLAR,2004,Whole Year ,Onion,1507,17872
+Karnataka,KOLAR,2004,Whole Year ,Potato,4028,72607
+Karnataka,KOLAR,2005,Kharif     ,Onion,505,2814
+Karnataka,KOLAR,2005,Kharif     ,Potato,1145,3833
+Karnataka,KOLAR,2005,Rabi       ,Onion,401,4157
+Karnataka,KOLAR,2005,Rabi       ,Potato,3836,73493
+Karnataka,KOLAR,2005,Summer     ,Onion,132,2281
+Karnataka,KOLAR,2005,Summer     ,Potato,178,2859
+Karnataka,KOLAR,2006,Whole Year ,Onion,696,4384
+Karnataka,KOLAR,2006,Whole Year ,Potato,7162,164474
+Karnataka,KOLAR,2007,Kharif     ,Onion,220,1311
+Karnataka,KOLAR,2007,Kharif     ,Potato,510,13259
+Karnataka,KOLAR,2007,Rabi       ,Onion,9,76
+Karnataka,KOLAR,2007,Rabi       ,Potato,790,9319
+Karnataka,KOLAR,2007,Summer     ,Onion,50,151
+Karnataka,KOLAR,2007,Summer     ,Potato,1726,27519
+Karnataka,KOLAR,2008,Kharif     ,Onion,185,960
+Karnataka,KOLAR,2008,Rabi       ,Onion,28,187
+Karnataka,KOLAR,2008,Rabi       ,Potato,4028,47274
+Karnataka,KOLAR,2008,Summer     ,Onion,222,1211
+Karnataka,KOLAR,2008,Summer     ,Potato,1507,24188
+Karnataka,KOLAR,2009,Kharif     ,Onion,90,318
+Karnataka,KOLAR,2009,Rabi       ,Onion,59,350
+Karnataka,KOLAR,2009,Rabi       ,Potato,3641,49338
+Karnataka,KOLAR,2009,Summer     ,Onion,143,857
+Karnataka,KOLAR,2009,Summer     ,Potato,2513,40325
+Karnataka,KOLAR,2010,Kharif     ,Onion,180,1124
+Karnataka,KOLAR,2010,Rabi       ,Onion,110,753
+Karnataka,KOLAR,2010,Rabi       ,Potato,3083,19770
+Karnataka,KOLAR,2010,Summer     ,Onion,189,2011
+Karnataka,KOLAR,2010,Summer     ,Potato,1275,19603
+Karnataka,KOLAR,2011,Kharif     ,Onion,197,972
+Karnataka,KOLAR,2011,Rabi       ,Onion,52,414
+Karnataka,KOLAR,2011,Rabi       ,Potato,3125,37335
+Karnataka,KOLAR,2011,Summer     ,Onion,80,493
+Karnataka,KOLAR,2011,Summer     ,Potato,463,6680
+Karnataka,KOLAR,2012,Kharif     ,Onion,180,956
+Karnataka,KOLAR,2012,Rabi       ,Onion,55,360
+Karnataka,KOLAR,2012,Rabi       ,Potato,3055,70043
+Karnataka,KOLAR,2012,Summer     ,Onion,76,431
+Karnataka,KOLAR,2012,Summer     ,Potato,350,7632
+Karnataka,KOLAR,2013,Kharif     ,Onion,98,648
+Karnataka,KOLAR,2013,Rabi       ,Onion,55,386
+Karnataka,KOLAR,2013,Rabi       ,Potato,3205,58837
+Karnataka,KOLAR,2013,Summer     ,Onion,70,550
+Karnataka,KOLAR,2013,Summer     ,Potato,340,4777
+Karnataka,KOLAR,2014,Kharif     ,Onion,107,550
+Karnataka,KOLAR,2014,Rabi       ,Onion,52,345
+Karnataka,KOLAR,2014,Rabi       ,Potato,3024,60070
+Karnataka,KOLAR,2014,Summer     ,Onion,64,314
+Karnataka,KOLAR,2014,Summer     ,Potato,320,4387
+Karnataka,KOLAR,1998,Kharif     ,Onion,416,1884
+Karnataka,KOLAR,1998,Rabi       ,Onion,15,154
+Karnataka,KOLAR,1998,Summer     ,Onion,3,35
+Karnataka,KOLAR,1999,Whole Year ,Onion,1177,8912
+Karnataka,KOLAR,2000,Whole Year ,Onion,939,5726
+Karnataka,KOLAR,2001,Whole Year ,Onion,598,5212
+Karnataka,KOLAR,2002,Whole Year ,Onion,488,3461
+Karnataka,KOLAR,2002,Whole Year ,Tomato,335,1913
+Karnataka,KOLAR,2003,Whole Year ,Onion,593,4323
+Karnataka,KOLAR,2003,Whole Year ,Tomato,629,2444
+Karnataka,KOLAR,2004,Whole Year ,Onion,960,7733
+Karnataka,KOLAR,2004,Whole Year ,Potato,3,50
+Karnataka,KOLAR,2005,Kharif     ,Onion,675,3761
+Karnataka,KOLAR,2005,Rabi       ,Onion,690,7153
+Karnataka,KOLAR,2005,Summer     ,Onion,229,3916
+Karnataka,KOLAR,2006,Whole Year ,Onion,1028,6512
+Karnataka,KOLAR,2007,Kharif     ,Onion,3257,19416
+Karnataka,KOLAR,2007,Rabi       ,Onion,2317,19509
+Karnataka,KOLAR,2007,Summer     ,Onion,375,3168
+Karnataka,KOLAR,2008,Kharif     ,Onion,919,3477
+Karnataka,KOLAR,2008,Rabi       ,Onion,925,6177
+Karnataka,KOLAR,2008,Summer     ,Onion,189,806
+Karnataka,KOLAR,2009,Kharif     ,Onion,843,2977
+Karnataka,KOLAR,2009,Rabi       ,Onion,1014,5723
+Karnataka,KOLAR,2009,Summer     ,Onion,201,1534
+Karnataka,KOLAR,2010,Kharif     ,Onion,948,5306
+Karnataka,KOLAR,2010,Rabi       ,Onion,982,5578
+Karnataka,KOLAR,2010,Summer     ,Onion,242,2575
+Karnataka,KOLAR,2011,Kharif     ,Onion,3821,14861
+Karnataka,KOLAR,2011,Rabi       ,Onion,863,3616
+Karnataka,KOLAR,2011,Summer     ,Onion,225,1386
+Karnataka,KOLAR,2012,Kharif     ,Onion,3821,25141
+Karnataka,KOLAR,2012,Rabi       ,Onion,863,4542
+Karnataka,KOLAR,2012,Summer     ,Onion,242,1373
+Karnataka,KOLAR,2013,Kharif     ,Onion,3906,38224
+Karnataka,KOLAR,2013,Rabi       ,Onion,910,6020
+Karnataka,KOLAR,2013,Summer     ,Onion,237,1861
+Karnataka,KOLAR,2014,Kharif     ,Onion,4178,45458
+Karnataka,KOLAR,2014,Rabi       ,Onion,257,1409
+Karnataka,KOLAR,2014,Summer     ,Onion,215,1055
+Karnataka,KOLAR,1998,Kharif     ,Onion,81,367
+Karnataka,KOLAR,1998,Kharif     ,Potato,79,871
+Karnataka,KOLAR,1998,Rabi       ,Onion,70,718
+Karnataka,KOLAR,1998,Rabi       ,Potato,17,335
+Karnataka,KOLAR,1998,Summer     ,Onion,35,404
+Karnataka,KOLAR,1999,Whole Year ,Onion,271,2420
+Karnataka,KOLAR,1999,Whole Year ,Potato,58,1080
+Karnataka,KOLAR,2000,Whole Year ,Onion,390,2402
+Karnataka,KOLAR,2000,Whole Year ,Potato,95,1309
+Karnataka,KOLAR,2001,Whole Year ,Onion,337,2646
+Karnataka,KOLAR,2001,Whole Year ,Potato,110,2137
+Karnataka,KOLAR,2002,Whole Year ,Onion,325,2537
+Karnataka,KOLAR,2002,Whole Year ,Potato,150,2010
+Karnataka,KOLAR,2002,Whole Year ,Tomato,1852,10260
+Karnataka,KOLAR,2003,Whole Year ,Onion,243,2103
+Karnataka,KOLAR,2003,Whole Year ,Potato,100,1474
+Karnataka,KOLAR,2003,Whole Year ,Tomato,1214,6613
+Karnataka,KOLAR,2004,Whole Year ,Onion,414,3237
+Karnataka,KOLAR,2004,Whole Year ,Potato,115,1196
+Karnataka,KOLAR,2005,Kharif     ,Onion,237,1321
+Karnataka,KOLAR,2005,Kharif     ,Potato,80,268
+Karnataka,KOLAR,2005,Rabi       ,Onion,147,1524
+Karnataka,KOLAR,2005,Rabi       ,Potato,40,723
+Karnataka,KOLAR,2005,Summer     ,Onion,35,599
+Karnataka,KOLAR,2005,Summer     ,Potato,10,158
+Karnataka,KOLAR,2006,Whole Year ,Onion,324,2013
+Karnataka,KOLAR,2006,Whole Year ,Potato,156,2612
+Karnataka,KOLAR,2007,Kharif     ,Onion,185,1103
+Karnataka,KOLAR,2007,Kharif     ,Potato,150,495
+Karnataka,KOLAR,2007,Rabi       ,Onion,143,1204
+Karnataka,KOLAR,2007,Rabi       ,Potato,85,1046
+Karnataka,KOLAR,2007,Summer     ,Onion,85,718
+Karnataka,KOLAR,2007,Summer     ,Potato,180,2845
+Karnataka,KOLAR,2008,Kharif     ,Onion,157,814
+Karnataka,KOLAR,2008,Kharif     ,Potato,40,76
+Karnataka,KOLAR,2008,Rabi       ,Onion,183,1222
+Karnataka,KOLAR,2008,Rabi       ,Potato,115,1653
+Karnataka,KOLAR,2008,Summer     ,Onion,90,491
+Karnataka,KOLAR,2008,Summer     ,Potato,208,3288
+Karnataka,KOLAR,2009,Kharif     ,Onion,117,413
+Karnataka,KOLAR,2009,Kharif     ,Potato,80,495
+Karnataka,KOLAR,2009,Rabi       ,Onion,178,1055
+Karnataka,KOLAR,2009,Rabi       ,Potato,125,1846
+Karnataka,KOLAR,2009,Summer     ,Onion,76,580
+Karnataka,KOLAR,2009,Summer     ,Potato,180,2845
+Karnataka,KOLAR,2010,Kharif     ,Onion,125,780
+Karnataka,KOLAR,2010,Kharif     ,Potato,86,653
+Karnataka,KOLAR,2010,Rabi       ,Onion,160,1096
+Karnataka,KOLAR,2010,Rabi       ,Potato,80,931
+Karnataka,KOLAR,2010,Summer     ,Onion,86,915
+Karnataka,KOLAR,2011,Kharif     ,Onion,152,750
+Karnataka,KOLAR,2011,Kharif     ,Potato,30,248
+Karnataka,KOLAR,2011,Rabi       ,Onion,153,1218
+Karnataka,KOLAR,2011,Rabi       ,Potato,65,790
+Karnataka,KOLAR,2011,Summer     ,Onion,75,462
+Karnataka,KOLAR,2011,Summer     ,Potato,85,1226
+Karnataka,KOLAR,2012,Kharif     ,Onion,224,1189
+Karnataka,KOLAR,2012,Kharif     ,Potato,101,645
+Karnataka,KOLAR,2012,Rabi       ,Onion,70,458
+Karnataka,KOLAR,2012,Rabi       ,Potato,20,340
+Karnataka,KOLAR,2012,Summer     ,Onion,75,425
+Karnataka,KOLAR,2012,Summer     ,Potato,104,2268
+Karnataka,KOLAR,2013,Kharif     ,Onion,55,364
+Karnataka,KOLAR,2013,Kharif     ,Potato,17,112
+Karnataka,KOLAR,2013,Rabi       ,Onion,62,436
+Karnataka,KOLAR,2013,Rabi       ,Potato,22,335
+Karnataka,KOLAR,2013,Summer     ,Onion,38,298
+Karnataka,KOLAR,2013,Summer     ,Potato,23,323
+Karnataka,KOLAR,2014,Kharif     ,Onion,212,1089
+Karnataka,KOLAR,2014,Kharif     ,Potato,19,117
+Karnataka,KOLAR,2014,Rabi       ,Onion,65,431
+Karnataka,KOLAR,2014,Rabi       ,Potato,63,970
+Karnataka,KOLAR,2014,Summer     ,Onion,1,5
+Karnataka,KOLAR,2014,Summer     ,Potato,8,110
+Karnataka,KOLAR,1998,Kharif     ,Onion,12,54
+Karnataka,KOLAR,1998,Kharif     ,Potato,28,309
+Karnataka,KOLAR,1999,Whole Year ,Onion,8,47
+Karnataka,KOLAR,2000,Whole Year ,Onion,15,80
+Karnataka,KOLAR,2000,Whole Year ,Potato,30,282
+Karnataka,KOLAR,2001,Whole Year ,Onion,5,21
+Karnataka,KOLAR,2001,Whole Year ,Potato,50,448
+Karnataka,KOLAR,2002,Whole Year ,Onion,5,17
+Karnataka,KOLAR,2002,Whole Year ,Potato,52,104
+Karnataka,KOLAR,2002,Whole Year ,Tomato,1785,20801
+Karnataka,KOLAR,2003,Whole Year ,Onion,5,13
+Karnataka,KOLAR,2003,Whole Year ,Potato,50,257
+Karnataka,KOLAR,2003,Whole Year ,Tomato,1638,14951
+Karnataka,KOLAR,2004,Whole Year ,Onion,5,29
+Karnataka,KOLAR,2004,Whole Year ,Potato,15,93
+Karnataka,KOLAR,2005,Kharif     ,Onion,20,111
+Karnataka,KOLAR,2005,Kharif     ,Potato,10,33
+Karnataka,KOLAR,2006,Whole Year ,Onion,5,28
+Karnataka,KOLAR,2006,Whole Year ,Potato,186,1190
+Karnataka,KOLAR,2007,Kharif     ,Onion,7,42
+Karnataka,KOLAR,2007,Kharif     ,Potato,190,627
+Karnataka,KOLAR,2008,Kharif     ,Onion,7,36
+Karnataka,KOLAR,2008,Kharif     ,Potato,116,220
+Karnataka,KOLAR,2009,Kharif     ,Onion,10,35
+Karnataka,KOLAR,2009,Kharif     ,Potato,116,718
+Karnataka,KOLAR,2010,Kharif     ,Onion,15,94
+Karnataka,KOLAR,2010,Kharif     ,Potato,103,782
+Karnataka,KOLAR,2011,Kharif     ,Onion,17,84
+Karnataka,KOLAR,2011,Kharif     ,Potato,105,868
+Karnataka,KOLAR,2012,Kharif     ,Onion,16,85
+Karnataka,KOLAR,2012,Kharif     ,Potato,139,888
+Karnataka,KOLAR,2013,Kharif     ,Onion,2,13
+Karnataka,KOLAR,2013,Kharif     ,Potato,119,783
+Karnataka,KOLAR,2013,Summer     ,Onion,2,16
+Karnataka,KOLAR,2014,Kharif     ,Potato,200,1231
+Karnataka,KOLAR,2014,Rabi       ,Onion,5,33
+Karnataka,KOLAR,2014,Rabi       ,Potato,31,478
+Karnataka,KOLAR,2014,Summer     ,Potato,1,14
+Karnataka,KOLAR,1998,Kharif     ,Onion,1940,1141
+Karnataka,KOLAR,1998,Rabi       ,Onion,140,777
+Karnataka,KOLAR,1998,Summer     ,Onion,58,669
+Karnataka,KOLAR,1999,Whole Year ,Onion,1532,8583
+Karnataka,KOLAR,2000,Whole Year ,Onion,1470,8402
+Karnataka,KOLAR,2001,Whole Year ,Onion,1597,11068
+Karnataka,KOLAR,2002,Whole Year ,Onion,1849,11856
+Karnataka,KOLAR,2002,Whole Year ,Tomato,310,2363
+Karnataka,KOLAR,2003,Whole Year ,Onion,1354,4531
+Karnataka,KOLAR,2003,Whole Year ,Tomato,402,2444
+Karnataka,KOLAR,2004,Whole Year ,Onion,1429,12466
+Karnataka,KOLAR,2005,Kharif     ,Onion,1527,22135
+Karnataka,KOLAR,2005,Rabi       ,Onion,45,466
+Karnataka,KOLAR,2005,Summer     ,Onion,324,5540
+Karnataka,KOLAR,2006,Whole Year ,Onion,2142,23100
+Karnataka,KOLAR,2007,Kharif     ,Onion,1771,17156
+Karnataka,KOLAR,2007,Rabi       ,Onion,20,168
+Karnataka,KOLAR,2007,Summer     ,Onion,251,819
+Karnataka,KOLAR,2008,Kharif     ,Onion,1595,16574
+Karnataka,KOLAR,2008,Rabi       ,Onion,14,93
+Karnataka,KOLAR,2008,Summer     ,Onion,221,2212
+Karnataka,KOLAR,2009,Kharif     ,Onion,1255,8274
+Karnataka,KOLAR,2009,Rabi       ,Onion,10,59
+Karnataka,KOLAR,2009,Summer     ,Onion,291,2225
+Karnataka,KOLAR,2010,Kharif     ,Onion,1004,11457
+Karnataka,KOLAR,2010,Rabi       ,Onion,15,103
+Karnataka,KOLAR,2010,Summer     ,Onion,251,2670
+Karnataka,KOLAR,2011,Kharif     ,Onion,826,8317
+Karnataka,KOLAR,2011,Rabi       ,Onion,390,3104
+Karnataka,KOLAR,2011,Summer     ,Onion,135,831
+Karnataka,KOLAR,2012,Kharif     ,Onion,1147,9869
+Karnataka,KOLAR,2012,Rabi       ,Onion,124,812
+Karnataka,KOLAR,2013,Kharif     ,Onion,837,6572
+Karnataka,KOLAR,2013,Rabi       ,Onion,140,984
+Karnataka,KOLAR,2013,Summer     ,Onion,44,345
+Karnataka,KOLAR,2014,Kharif     ,Onion,1173,7150
+Karnataka,KOLAR,2014,Rabi       ,Onion,137,908
+Karnataka,KOLAR,2014,Summer     ,Onion,30,147
+Karnataka,KOLAR,2007,Kharif     ,Onion,2,12
+Karnataka,KOLAR,2008,Kharif     ,Onion,23,119
+Karnataka,KOLAR,2009,Kharif     ,Onion,20,71
+Karnataka,KOLAR,2010,Kharif     ,Onion,5,31
+Karnataka,KOLAR,2011,Kharif     ,Onion,30,148
+Karnataka,KOLAR,2012,Kharif     ,Onion,10,53
+Karnataka,KOLAR,2013,Kharif     ,Onion,5,33
+Karnataka,KOLAR,2013,Kharif     ,Potato,4,26
+Karnataka,KOLAR,2014,Kharif     ,Onion,7,36
+Karnataka,KOLAR,2014,Kharif     ,Potato,12,74
+Karnataka,KOLAR,1999,Whole Year ,Onion,12,70
+Karnataka,KOLAR,2000,Whole Year ,Onion,10,51
+Karnataka,KOLAR,2001,Whole Year ,Onion,20,86
+Karnataka,KOLAR,2002,Whole Year ,Onion,13,44
+Karnataka,KOLAR,2002,Whole Year ,Tomato,109,905
+Karnataka,KOLAR,2003,Whole Year ,Onion,12,43
+Karnataka,KOLAR,2003,Whole Year ,Tomato,99,1182
+Karnataka,KOLAR,2004,Whole Year ,Onion,20,126
+Karnataka,KOLAR,2005,Kharif     ,Onion,17,95
+Karnataka,KOLAR,2006,Whole Year ,Onion,19,106
+Karnataka,KOLAR,2007,Kharif     ,Onion,20,119
+Karnataka,KOLAR,2008,Kharif     ,Onion,10,52
+Karnataka,KOLAR,2008,Kharif     ,Potato,1,2
+Karnataka,KOLAR,2008,Rabi       ,Onion,1,7
+Karnataka,KOLAR,2008,Summer     ,Onion,6,33
+Karnataka,KOLAR,2009,Kharif     ,Onion,1,4
+Karnataka,KOLAR,2013,Summer     ,Potato,1,14
+Karnataka,KOLAR,1998,Kharif     ,Onion,83,376
+Karnataka,KOLAR,1998,Kharif     ,Potato,4,44
+Karnataka,KOLAR,1998,Summer     ,Onion,29,335
+Karnataka,KOLAR,1998,Summer     ,Potato,15,256
+Karnataka,KOLAR,1999,Whole Year ,Onion,183,1201
+Karnataka,KOLAR,2000,Whole Year ,Onion,757,3998
+Karnataka,KOLAR,2000,Whole Year ,Potato,20,203
+Karnataka,KOLAR,2001,Whole Year ,Onion,529,2824
+Karnataka,KOLAR,2001,Whole Year ,Potato,8,96
+Karnataka,KOLAR,2002,Whole Year ,Onion,157,1085
+Karnataka,KOLAR,2002,Whole Year ,Potato,8,16
+Karnataka,KOLAR,2002,Whole Year ,Tomato,632,4442
+Karnataka,KOLAR,2003,Whole Year ,Onion,257,1125
+Karnataka,KOLAR,2003,Whole Year ,Potato,17,172
+Karnataka,KOLAR,2003,Whole Year ,Tomato,840,5591
+Karnataka,KOLAR,2004,Whole Year ,Onion,201,1325
+Karnataka,KOLAR,2004,Whole Year ,Potato,22,290
+Karnataka,KOLAR,2005,Kharif     ,Onion,227,1265
+Karnataka,KOLAR,2005,Kharif     ,Potato,3,10
+Karnataka,KOLAR,2005,Rabi       ,Onion,4,41
+Karnataka,KOLAR,2005,Rabi       ,Potato,1,18
+Karnataka,KOLAR,2005,Summer     ,Onion,45,770
+Karnataka,KOLAR,2005,Summer     ,Potato,11,164
+Karnataka,KOLAR,2006,Whole Year ,Onion,177,1006
+Karnataka,KOLAR,2006,Whole Year ,Potato,28,609
+Karnataka,KOLAR,2007,Kharif     ,Onion,405,2414
+Karnataka,KOLAR,2007,Kharif     ,Potato,8,26
+Karnataka,KOLAR,2007,Rabi       ,Onion,25,210
+Karnataka,KOLAR,2007,Summer     ,Onion,28,237
+Karnataka,KOLAR,2007,Summer     ,Potato,15,224
+Karnataka,KOLAR,2008,Kharif     ,Onion,385,3088
+Karnataka,KOLAR,2008,Kharif     ,Potato,9,17
+Karnataka,KOLAR,2008,Rabi       ,Onion,15,100
+Karnataka,KOLAR,2008,Rabi       ,Potato,7,101
+Karnataka,KOLAR,2008,Summer     ,Onion,17,93
+Karnataka,KOLAR,2008,Summer     ,Potato,12,179
+Karnataka,KOLAR,2009,Kharif     ,Onion,216,1576
+Karnataka,KOLAR,2009,Kharif     ,Potato,12,74
+Karnataka,KOLAR,2009,Rabi       ,Onion,33,195
+Karnataka,KOLAR,2009,Rabi       ,Potato,4,59
+Karnataka,KOLAR,2009,Summer     ,Onion,46,351
+Karnataka,KOLAR,2009,Summer     ,Potato,25,373
+Karnataka,KOLAR,2010,Kharif     ,Onion,290,1811
+Karnataka,KOLAR,2010,Kharif     ,Potato,16,122
+Karnataka,KOLAR,2010,Rabi       ,Onion,8,55
+Karnataka,KOLAR,2010,Rabi       ,Potato,6,70
+Karnataka,KOLAR,2010,Summer     ,Onion,48,511
+Karnataka,KOLAR,2010,Summer     ,Potato,1,15
+Karnataka,KOLAR,2011,Kharif     ,Onion,650,4166
+Karnataka,KOLAR,2011,Kharif     ,Potato,23,190
+Karnataka,KOLAR,2011,Rabi       ,Onion,5,40
+Karnataka,KOLAR,2011,Rabi       ,Potato,2,24
+Karnataka,KOLAR,2011,Summer     ,Onion,19,117
+Karnataka,KOLAR,2011,Summer     ,Potato,3,43
+Karnataka,KOLAR,2012,Kharif     ,Onion,400,3624
+Karnataka,KOLAR,2012,Kharif     ,Potato,37,236
+Karnataka,KOLAR,2012,Rabi       ,Potato,3,51
+Karnataka,KOLAR,2012,Summer     ,Onion,5,28
+Karnataka,KOLAR,2012,Summer     ,Potato,2,44
+Karnataka,KOLAR,2013,Kharif     ,Onion,457,3466
+Karnataka,KOLAR,2013,Kharif     ,Potato,15,99
+Karnataka,KOLAR,2013,Rabi       ,Onion,23,162
+Karnataka,KOLAR,2013,Rabi       ,Potato,8,122
+Karnataka,KOLAR,2013,Summer     ,Onion,116,911
+Karnataka,KOLAR,2013,Summer     ,Potato,1,14
+Karnataka,KOLAR,2014,Kharif     ,Onion,625,2844
+Karnataka,KOLAR,2014,Kharif     ,Potato,51,314
+Karnataka,KOLAR,2014,Rabi       ,Onion,15,99
+Karnataka,KOLAR,2014,Rabi       ,Potato,32,493
+Karnataka,KOLAR,2014,Summer     ,Onion,15,74
+Karnataka,KOLAR,2014,Summer     ,Potato,8,110
+Karnataka,KOLAR,1998,Rabi       ,Onion,6,62
+Karnataka,KOLAR,2000,Whole Year ,Onion,7,41
+Karnataka,KOLAR,2001,Whole Year ,Onion,6,86
+Karnataka,KOLAR,2002,Whole Year ,Onion,5,66
+Karnataka,KOLAR,2003,Whole Year ,Onion,4,42
+Karnataka,KOLAR,2004,Whole Year ,Onion,4,36
+Karnataka,KOLAR,2005,Rabi       ,Onion,2,21
+Karnataka,KOLAR,2006,Whole Year ,Onion,1,6
+Karnataka,KOLAR,1998,Summer     ,Onion,131,4890
+Karnataka,KOLAR,1999,Whole Year ,Onion,85,886
+Karnataka,KOLAR,2000,Whole Year ,Onion,75,441
+Karnataka,KOLAR,2001,Whole Year ,Onion,75,1081
+Karnataka,KOLAR,2002,Whole Year ,Onion,74,982
+Karnataka,KOLAR,2002,Whole Year ,Tomato,6,55
+Karnataka,KOLAR,2003,Whole Year ,Onion,75,783
+Karnataka,KOLAR,2003,Whole Year ,Tomato,4,27
+Karnataka,KOLAR,2004,Whole Year ,Onion,77,697
+Karnataka,KOLAR,2005,Rabi       ,Onion,72,746
+Karnataka,KOLAR,2006,Whole Year ,Onion,74,457
+Karnataka,KOLAR,2007,Rabi       ,Onion,71,598
+Karnataka,KOLAR,2007,Summer     ,Onion,10,84
+Karnataka,KOLAR,2008,Rabi       ,Onion,72,481
+Karnataka,KOLAR,2009,Rabi       ,Onion,71,421
+Karnataka,KOLAR,2010,Rabi       ,Onion,73,500
+Karnataka,KOLAR,2011,Rabi       ,Onion,56,446
+Karnataka,KOLAR,2012,Rabi       ,Onion,54,353
+Karnataka,KOLAR,2013,Rabi       ,Onion,61,429
+Karnataka,KOLAR,2014,Rabi       ,Onion,58,384
+Karnataka,KOLAR,2010,Kharif     ,Onion,311,1952
+Karnataka,KOLAR,2010,Rabi       ,Onion,285,1952
+Karnataka,KOLAR,2010,Summer     ,Onion,18,192
+Karnataka,KOLAR,2011,Kharif     ,Onion,560,2764
+Karnataka,KOLAR,2011,Rabi       ,Onion,384,3056
+Karnataka,KOLAR,2011,Summer     ,Onion,15,92
+Karnataka,KOLAR,2012,Kharif     ,Onion,264,1401
+Karnataka,KOLAR,2012,Rabi       ,Onion,260,1702
+Karnataka,KOLAR,2012,Summer     ,Onion,4,23
+Karnataka,KOLAR,2013,Kharif     ,Onion,253,1674
+Karnataka,KOLAR,2013,Rabi       ,Onion,791,5558
+Karnataka,KOLAR,2013,Summer     ,Onion,3,24
+Karnataka,KOLAR,2014,Kharif     ,Onion,395,2029
+Karnataka,KOLAR,2014,Rabi       ,Onion,329,2180
+Karnataka,KOLAR,2014,Summer     ,Onion,7,34
